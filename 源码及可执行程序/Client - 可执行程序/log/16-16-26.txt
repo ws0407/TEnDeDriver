@@ -1,0 +1,1002 @@
+1	DESKTOP-6CB4LM6$	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\Crypto\RSA\S-1-5-21-3089630636-684074559-2192975366-1001	648	2021- 9- 8 16:16: 6
+2	DESKTOP-6CB4LM6$	C:\Windows\System32\UserMgrLog.etl	4	2021- 9- 8 16:16: 6
+1	ÍõË¶	C:\Windows\Temp	4156	2021- 9- 8 16:16: 6
+1	DESKTOP-6CB4LM6$	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\Crypto\RSA\S-1-5-21-3089630636-684074559-2192975366-1001\6b73e3c31a6fc638c6dd90279ff6db79_57334791-350a-4767-a500-e8a6a245beb2	648	2021- 9- 8 16:16: 6
+1	DESKTOP-6CB4LM6$	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\Protect\S-1-5-21-3089630636-684074559-2192975366-1001\Preferred	648	2021- 9- 8 16:16: 6
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Local\Temp	4156	2021- 9- 8 16:16: 6
+1	DESKTOP-6CB4LM6$	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\Protect\S-1-5-21-3089630636-684074559-2192975366-1001\Preferred	648	2021- 9- 8 16:16: 6
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Local\Temp	4156	2021- 9- 8 16:16: 6
+1	DESKTOP-6CB4LM6$	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\Protect\S-1-5-21-3089630636-684074559-2192975366-1001\Preferred	648	2021- 9- 8 16:16: 6
+1	DESKTOP-6CB4LM6$	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\Protect\S-1-5-21-3089630636-684074559-2192975366-1001\Preferred	648	2021- 9- 8 16:16: 6
+1	ÍõË¶	C:\Windows\Temp	4156	2021- 9- 8 16:16: 6
+1	DESKTOP-6CB4LM6$	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\Protect\S-1-5-21-3089630636-684074559-2192975366-1001\Preferred	648	2021- 9- 8 16:16: 6
+1	DESKTOP-6CB4LM6$	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\Crypto	648	2021- 9- 8 16:16: 6
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Local\Temp	4156	2021- 9- 8 16:16: 6
+1	DESKTOP-6CB4LM6$	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\Crypto\Keys	648	2021- 9- 8 16:16: 6
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Local\Temp	4156	2021- 9- 8 16:16: 6
+2	DESKTOP-6CB4LM6$	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\Crypto\Keys\de7cf8a7901d2ad13e5c67c29e5d1662_57334791-350a-4767-a500-e8a6a245beb2	648	2021- 9- 8 16:16: 6
+1	DESKTOP-6CB4LM6$	C:\Windows\System32\Microsoft\Protect\S-1-5-18\User\Preferred	648	2021- 9- 8 16:16: 6
+1	DESKTOP-6CB4LM6$	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\Crypto\Keys\de7cf8a7901d2ad13e5c67c29e5d1662_57334791-350a-4767-a500-e8a6a245beb2	648	2021- 9- 8 16:16: 6
+1	DESKTOP-6CB4LM6$	C:\Windows\System32\Microsoft\Protect\S-1-5-18\User\Preferred	648	2021- 9- 8 16:16: 6
+1	DESKTOP-6CB4LM6$	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\Protect\S-1-5-21-3089630636-684074559-2192975366-1001\Preferred	648	2021- 9- 8 16:16: 6
+1	ÍõË¶	oicKøÿÿ`l²	4156	2021- 9- 8 16:16: 6
+1	DESKTOP-6CB4LM6$	C:\Windows\System32\Microsoft\Protect\S-1-5-18\User\Preferred	648	2021- 9- 8 16:16: 6
+2	ÍõË¶	C:\Users\ÍõË¶\AppData\Local\ConnectedDevicesPlatform\52eaa74879df763c\ActivitiesCache.db-wal	4156	2021- 9- 8 16:16: 6
+2	ÍõË¶	C:\Users\ÍõË¶\AppData\Local\ConnectedDevicesPlatform\52eaa74879df763c\ActivitiesCache.db-wal	4156	2021- 9- 8 16:16: 6
+2	ÍõË¶	C:\Users\ÍõË¶\AppData\Local\ConnectedDevicesPlatform\52eaa74879df763c\ActivitiesCache.db-wal	4156	2021- 9- 8 16:16: 6
+2	ÍõË¶	C:\Users\ÍõË¶\AppData\Local\ConnectedDevicesPlatform\52eaa74879df763c\ActivitiesCache.db-wal	4156	2021- 9- 8 16:16: 6
+2	ÍõË¶	C:\Users\ÍõË¶\AppData\Local\ConnectedDevicesPlatform\52eaa74879df763c\ActivitiesCache.db-wal	4156	2021- 9- 8 16:16: 6
+2	ÍõË¶	C:\Users\ÍõË¶\AppData\Local\ConnectedDevicesPlatform\52eaa74879df763c\ActivitiesCache.db-wal	4156	2021- 9- 8 16:16: 6
+2	ÍõË¶	C:\Users\ÍõË¶\AppData\Local\ConnectedDevicesPlatform\52eaa74879df763c\ActivitiesCache.db-wal	4156	2021- 9- 8 16:16: 6
+2	ÍõË¶	C:\Users\ÍõË¶\AppData\Local\ConnectedDevicesPlatform\52eaa74879df763c\ActivitiesCache.db-wal	4156	2021- 9- 8 16:16: 6
+2	ÍõË¶	C:\Users\ÍõË¶\AppData\Local\ConnectedDevicesPlatform\52eaa74879df763c\ActivitiesCache.db-wal	4156	2021- 9- 8 16:16: 6
+2	ÍõË¶	C:\Users\ÍõË¶\AppData\Local\ConnectedDevicesPlatform\52eaa74879df763c\ActivitiesCache.db-wal	4156	2021- 9- 8 16:16: 6
+2	ÍõË¶	C:\Users\ÍõË¶\AppData\Local\ConnectedDevicesPlatform\52eaa74879df763c\ActivitiesCache.db-wal	4156	2021- 9- 8 16:16: 7
+2	ÍõË¶	C:\Users\ÍõË¶\AppData\Local\ConnectedDevicesPlatform\52eaa74879df763c\ActivitiesCache.db-wal	4156	2021- 9- 8 16:16: 7
+2	ÍõË¶	C:\Users\ÍõË¶\AppData\Local\ConnectedDevicesPlatform\52eaa74879df763c\ActivitiesCache.db-wal	4156	2021- 9- 8 16:16: 7
+2	ÍõË¶	C:\Users\ÍõË¶\AppData\Local\ConnectedDevicesPlatform\52eaa74879df763c\ActivitiesCache.db-wal	4156	2021- 9- 8 16:16: 7
+2	ÍõË¶	C:\Users\ÍõË¶\AppData\Local\ConnectedDevicesPlatform\52eaa74879df763c\ActivitiesCache.db-wal	4156	2021- 9- 8 16:16: 7
+2	ÍõË¶	C:\Users\ÍõË¶\AppData\Local\ConnectedDevicesPlatform\52eaa74879df763c\ActivitiesCache.db-wal	4156	2021- 9- 8 16:16: 7
+2	ÍõË¶	C:\Users\ÍõË¶\AppData\Local\ConnectedDevicesPlatform\52eaa74879df763c\ActivitiesCache.db-wal	4156	2021- 9- 8 16:16: 7
+2	ÍõË¶	C:\Users\ÍõË¶\AppData\Local\ConnectedDevicesPlatform\52eaa74879df763c\ActivitiesCache.db-wal	4156	2021- 9- 8 16:16: 7
+2	ÍõË¶	C:\Users\ÍõË¶\AppData\Local\ConnectedDevicesPlatform\52eaa74879df763c\ActivitiesCache.db-wal	4156	2021- 9- 8 16:16: 7
+2	ÍõË¶	C:\Users\ÍõË¶\AppData\Local\ConnectedDevicesPlatform\52eaa74879df763c\ActivitiesCache.db-wal	4156	2021- 9- 8 16:16: 7
+2	ÍõË¶	C:\Users\ÍõË¶\AppData\Local\ConnectedDevicesPlatform\52eaa74879df763c\ActivitiesCache.db-wal	4156	2021- 9- 8 16:16: 7
+2	ÍõË¶	C:\Users\ÍõË¶\AppData\Local\ConnectedDevicesPlatform\52eaa74879df763c\ActivitiesCache.db-wal	4156	2021- 9- 8 16:16: 7
+2	ÍõË¶	C:\Users\ÍõË¶\AppData\Local\ConnectedDevicesPlatform\52eaa74879df763c\ActivitiesCache.db-wal	4156	2021- 9- 8 16:16: 7
+2	ÍõË¶	C:\Users\ÍõË¶\AppData\Local\ConnectedDevicesPlatform\52eaa74879df763c\ActivitiesCache.db-wal	4156	2021- 9- 8 16:16: 7
+2	ÍõË¶	C:\Users\ÍõË¶\AppData\Local\ConnectedDevicesPlatform\52eaa74879df763c\ActivitiesCache.db-wal	4156	2021- 9- 8 16:16: 7
+2	ÍõË¶	C:\Users\ÍõË¶\AppData\Local\ConnectedDevicesPlatform\52eaa74879df763c\ActivitiesCache.db-wal	4156	2021- 9- 8 16:16: 7
+2	ÍõË¶	C:\Users\ÍõË¶\AppData\Local\ConnectedDevicesPlatform\52eaa74879df763c\ActivitiesCache.db-wal	4156	2021- 9- 8 16:16: 7
+2	ÍõË¶	C:\Users\ÍõË¶\AppData\Local\ConnectedDevicesPlatform\52eaa74879df763c\ActivitiesCache.db-wal	4156	2021- 9- 8 16:16: 7
+2	ÍõË¶	C:\Users\ÍõË¶\AppData\Local\ConnectedDevicesPlatform\52eaa74879df763c\ActivitiesCache.db-wal	4156	2021- 9- 8 16:16: 7
+2	DESKTOP-6CB4LM6$		4	2021- 9- 8 16:16: 7
+2	ÍõË¶	C:\Users\ÍõË¶\AppData\Local\ConnectedDevicesPlatform\52eaa74879df763c\ActivitiesCache.db-wal	4156	2021- 9- 8 16:16: 7
+2	DESKTOP-6CB4LM6$	B	4	2021- 9- 8 16:16: 7
+1	DESKTOP-6CB4LM6$	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\Crypto\Keys\de7cf8a7901d2ad13e5c67c29e5d1662_57334791-350a-4767-a500-e8a6a245beb2	648	2021- 9- 8 16:16: 7
+1	DESKTOP-6CB4LM6$	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\Protect\S-1-5-21-3089630636-684074559-2192975366-1001\Preferred	648	2021- 9- 8 16:16: 7
+1	DESKTOP-6CB4LM6$	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\Crypto\Keys\de7cf8a7901d2ad13e5c67c29e5d1662_57334791-350a-4767-a500-e8a6a245beb2	648	2021- 9- 8 16:16: 7
+1	DESKTOP-6CB4LM6$	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\Crypto\Keys\de7cf8a7901d2ad13e5c67c29e5d1662_57334791-350a-4767-a500-e8a6a245beb2	648	2021- 9- 8 16:16: 7
+2	DESKTOP-6CB4LM6$	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\Crypto\Keys\de7cf8a7901d2ad13e5c67c29e5d1662_57334791-350a-4767-a500-e8a6a245beb2	648	2021- 9- 8 16:16: 7
+1	DESKTOP-6CB4LM6$	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\Crypto\Keys\de7cf8a7901d2ad13e5c67c29e5d1662_57334791-350a-4767-a500-e8a6a245beb2	648	2021- 9- 8 16:16: 7
+1	ÍõË¶		4156	2021- 9- 8 16:16: 7
+1	DESKTOP-6CB4LM6$	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\Crypto\Keys\de7cf8a7901d2ad13e5c67c29e5d1662_57334791-350a-4767-a500-e8a6a245beb2	648	2021- 9- 8 16:16: 7
+1	DESKTOP-6CB4LM6$	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\Crypto\Keys	648	2021- 9- 8 16:16: 7
+1	DESKTOP-6CB4LM6$	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\Crypto	648	2021- 9- 8 16:16: 7
+1	DESKTOP-6CB4LM6$	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\Crypto\RSA	648	2021- 9- 8 16:16: 7
+1	DESKTOP-6CB4LM6$	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\Crypto\RSA\S-1-5-21-3089630636-684074559-2192975366-1001	648	2021- 9- 8 16:16: 7
+1	DESKTOP-6CB4LM6$	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\Crypto\RSA\S-1-5-21-3089630636-684074559-2192975366-1001	648	2021- 9- 8 16:16: 7
+1	DESKTOP-6CB4LM6$	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\Protect\S-1-5-21-3089630636-684074559-2192975366-1001\Preferred	648	2021- 9- 8 16:16: 7
+1	DESKTOP-6CB4LM6$	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\Protect\S-1-5-21-3089630636-684074559-2192975366-1001\Preferred	648	2021- 9- 8 16:16: 7
+1	DESKTOP-6CB4LM6$	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\Protect\S-1-5-21-3089630636-684074559-2192975366-1001\Preferred	648	2021- 9- 8 16:16: 7
+1	DESKTOP-6CB4LM6$	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\Protect\S-1-5-21-3089630636-684074559-2192975366-1001\Preferred	648	2021- 9- 8 16:16: 7
+1	DESKTOP-6CB4LM6$	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\Protect\S-1-5-21-3089630636-684074559-2192975366-1001\Preferred	648	2021- 9- 8 16:16: 7
+1	DESKTOP-6CB4LM6$	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\Crypto	648	2021- 9- 8 16:16: 7
+1	DESKTOP-6CB4LM6$	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\Crypto\Keys	648	2021- 9- 8 16:16: 7
+1	DESKTOP-6CB4LM6$	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\Crypto\Keys\de7cf8a7901d2ad13e5c67c29e5d1662_57334791-350a-4767-a500-e8a6a245beb2	648	2021- 9- 8 16:16: 7
+1	DESKTOP-6CB4LM6$	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\Crypto\Keys\de7cf8a7901d2ad13e5c67c29e5d1662_57334791-350a-4767-a500-e8a6a245beb2	648	2021- 9- 8 16:16: 7
+1	DESKTOP-6CB4LM6$	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\Protect\S-1-5-21-3089630636-684074559-2192975366-1001\Preferred	648	2021- 9- 8 16:16: 7
+1	DESKTOP-6CB4LM6$	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\Protect\S-1-5-21-3089630636-684074559-2192975366-1001\Preferred	648	2021- 9- 8 16:16: 7
+2	ÍõË¶	C:\Users\ÍõË¶\AppData\Local\ConnectedDevicesPlatform\52eaa74879df763c\ActivitiesCache.db-wal	4156	2021- 9- 8 16:16: 7
+2	ÍõË¶	C:\Users\ÍõË¶\AppData\Local\ConnectedDevicesPlatform\52eaa74879df763c\ActivitiesCache.db-wal	4156	2021- 9- 8 16:16: 7
+2	ÍõË¶	C:\Users\ÍõË¶\AppData\Local\ConnectedDevicesPlatform\52eaa74879df763c\ActivitiesCache.db-wal	4156	2021- 9- 8 16:16: 7
+2	ÍõË¶	C:\Users\ÍõË¶\AppData\Local\ConnectedDevicesPlatform\52eaa74879df763c\ActivitiesCache.db-wal	4156	2021- 9- 8 16:16: 7
+2	ÍõË¶	C:\Users\ÍõË¶\AppData\Local\ConnectedDevicesPlatform\52eaa74879df763c\ActivitiesCache.db-wal	4156	2021- 9- 8 16:16: 7
+2	ÍõË¶	C:\Users\ÍõË¶\AppData\Local\ConnectedDevicesPlatform\52eaa74879df763c\ActivitiesCache.db-wal	4156	2021- 9- 8 16:16: 7
+2	ÍõË¶	C:\Users\ÍõË¶\AppData\Local\ConnectedDevicesPlatform\52eaa74879df763c\ActivitiesCache.db-wal	4156	2021- 9- 8 16:16: 7
+2	ÍõË¶	C:\Users\ÍõË¶\AppData\Local\ConnectedDevicesPlatform\52eaa74879df763c\ActivitiesCache.db-wal	4156	2021- 9- 8 16:16: 7
+2	ÍõË¶	C:\Users\ÍõË¶\AppData\Local\ConnectedDevicesPlatform\52eaa74879df763c\ActivitiesCache.db-wal	4156	2021- 9- 8 16:16: 7
+2	ÍõË¶	C:\Users\ÍõË¶\AppData\Local\ConnectedDevicesPlatform\52eaa74879df763c\ActivitiesCache.db-wal	4156	2021- 9- 8 16:16: 7
+2	ÍõË¶	C:\Users\ÍõË¶\AppData\Local\ConnectedDevicesPlatform\52eaa74879df763c\ActivitiesCache.db-wal	4156	2021- 9- 8 16:16: 7
+2	ÍõË¶	C:\Users\ÍõË¶\AppData\Local\ConnectedDevicesPlatform\52eaa74879df763c\ActivitiesCache.db-wal	4156	2021- 9- 8 16:16: 7
+2	ÍõË¶	C:\Users\ÍõË¶\AppData\Local\ConnectedDevicesPlatform\52eaa74879df763c\ActivitiesCache.db-wal	4156	2021- 9- 8 16:16: 7
+2	ÍõË¶	C:\Users\ÍõË¶\AppData\Local\ConnectedDevicesPlatform\52eaa74879df763c\ActivitiesCache.db-wal	4156	2021- 9- 8 16:16: 7
+2	ÍõË¶	C:\Users\ÍõË¶\AppData\Local\ConnectedDevicesPlatform\52eaa74879df763c\ActivitiesCache.db-wal	4156	2021- 9- 8 16:16: 7
+1	ÍõË¶	oicKøÿÿ`l²	4156	2021- 9- 8 16:16: 7
+1	DESKTOP-6CB4LM6$	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\Crypto\Keys\de7cf8a7901d2ad13e5c67c29e5d1662_57334791-350a-4767-a500-e8a6a245beb2	648	2021- 9- 8 16:16: 7
+1	DESKTOP-6CB4LM6$	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\Protect\S-1-5-21-3089630636-684074559-2192975366-1001\Preferred	648	2021- 9- 8 16:16: 7
+1	DESKTOP-6CB4LM6$	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\Protect\S-1-5-21-3089630636-684074559-2192975366-1001\Preferred	648	2021- 9- 8 16:16: 7
+2	DESKTOP-6CB4LM6$	x
+¤”ÿÿ	4	2021- 9- 8 16:16: 7
+1	DESKTOP-6CB4LM6$	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\Crypto\Keys\de7cf8a7901d2ad13e5c67c29e5d1662_57334791-350a-4767-a500-e8a6a245beb2	648	2021- 9- 8 16:16: 7
+2	DESKTOP-6CB4LM6$	`1)Ùÿÿ`uğ	4	2021- 9- 8 16:16: 7
+2	DESKTOP-6CB4LM6$		4	2021- 9- 8 16:16: 7
+1	DESKTOP-6CB4LM6$	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\Crypto\Keys\de7cf8a7901d2ad13e5c67c29e5d1662_57334791-350a-4767-a500-e8a6a245beb2	648	2021- 9- 8 16:16: 7
+1	ÍõË¶	oicKøÿÿ`l²	4156	2021- 9- 8 16:16: 7
+1	ÍõË¶		4156	2021- 9- 8 16:16: 7
+1	DESKTOP-6CB4LM6$	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\Crypto\Keys\de7cf8a7901d2ad13e5c67c29e5d1662_57334791-350a-4767-a500-e8a6a245beb2	648	2021- 9- 8 16:16: 7
+1	DESKTOP-6CB4LM6$	C:\Users\ÍõË¶\AppData\Roaming\Microsoft	648	2021- 9- 8 16:16: 7
+1	DESKTOP-6CB4LM6$	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\Crypto	648	2021- 9- 8 16:16: 7
+1	DESKTOP-6CB4LM6$	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\Crypto\RSA	648	2021- 9- 8 16:16: 7
+1	DESKTOP-6CB4LM6$	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\Crypto\RSA\S-1-5-21-3089630636-684074559-2192975366-1001\6b73e3c31a6fc638c6dd90279ff6db79_57334791-350a-4767-a500-e8a6a245beb2	648	2021- 9- 8 16:16: 7
+1	DESKTOP-6CB4LM6$	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\Crypto\RSA\S-1-5-21-3089630636-684074559-2192975366-1001	648	2021- 9- 8 16:16: 7
+1	DESKTOP-6CB4LM6$	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\Protect\S-1-5-21-3089630636-684074559-2192975366-1001\Preferred	648	2021- 9- 8 16:16: 7
+1	DESKTOP-6CB4LM6$	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\Protect\S-1-5-21-3089630636-684074559-2192975366-1001\Preferred	648	2021- 9- 8 16:16: 7
+1	DESKTOP-6CB4LM6$	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\Protect\S-1-5-21-3089630636-684074559-2192975366-1001\Preferred	648	2021- 9- 8 16:16: 7
+1	DESKTOP-6CB4LM6$	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\Protect\S-1-5-21-3089630636-684074559-2192975366-1001\Preferred	648	2021- 9- 8 16:16: 7
+1	DESKTOP-6CB4LM6$	C:\Users\ÍõË¶\AppData\Roaming\Microsoft	648	2021- 9- 8 16:16: 7
+1	DESKTOP-6CB4LM6$	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\Crypto	648	2021- 9- 8 16:16: 7
+1	DESKTOP-6CB4LM6$	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\Crypto\Keys	648	2021- 9- 8 16:16: 7
+2	DESKTOP-6CB4LM6$	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\Crypto\Keys\de7cf8a7901d2ad13e5c67c29e5d1662_57334791-350a-4767-a500-e8a6a245beb2	648	2021- 9- 8 16:16: 7
+1	DESKTOP-6CB4LM6$	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\Crypto\Keys\de7cf8a7901d2ad13e5c67c29e5d1662_57334791-350a-4767-a500-e8a6a245beb2	648	2021- 9- 8 16:16: 7
+1	DESKTOP-6CB4LM6$	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\Protect\S-1-5-21-3089630636-684074559-2192975366-1001\Preferred	648	2021- 9- 8 16:16: 7
+1	ÍõË¶	oicKøÿÿ`l²	4156	2021- 9- 8 16:16: 7
+2	DESKTOP-6CB4LM6$	C:\Windows\System32\UserMgrLog.etl	4	2021- 9- 8 16:16: 7
+2	DESKTOP-6CB4LM6$		4	2021- 9- 8 16:16: 7
+2	DESKTOP-6CB4LM6$	C:\Windows\System32\UserMgrLog.etl	4	2021- 9- 8 16:16: 7
+1	ÍõË¶	C:\Windows\Temp	4156	2021- 9- 8 16:16: 7
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Local\Temp	4156	2021- 9- 8 16:16: 7
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Local\Temp	4156	2021- 9- 8 16:16: 7
+2	DESKTOP-6CB4LM6$	C:\Windows\System32\UserMgrLog.etl	4	2021- 9- 8 16:16: 7
+1	ÍõË¶	C:\Windows\Temp	4156	2021- 9- 8 16:16: 7
+1	ÍõË¶	C:\Windows\Temp	4156	2021- 9- 8 16:16: 7
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Local\Temp	4156	2021- 9- 8 16:16: 7
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Local\Microsoft\TokenBroker\Cache\380af2470709263f31549c3875b01d843064935a.tbres	4156	2021- 9- 8 16:16: 7
+1	DESKTOP-6CB4LM6$	C:\Windows\System32\Microsoft\Protect\S-1-5-18\User\Preferred	648	2021- 9- 8 16:16: 7
+1	DESKTOP-6CB4LM6$	C:\Windows\System32\Microsoft\Protect\S-1-5-18\User\Preferred	648	2021- 9- 8 16:16: 7
+1	DESKTOP-6CB4LM6$	C:\Windows\System32\Microsoft\Protect\S-1-5-18\User\Preferred	648	2021- 9- 8 16:16: 7
+1	DESKTOP-6CB4LM6$	C:\Windows\System32\Microsoft\Protect\S-1-5-18\User\Preferred	648	2021- 9- 8 16:16: 7
+2	DESKTOP-6CB4LM6$	C:\Windows\System32\UserMgrLog.etl	4	2021- 9- 8 16:16: 7
+1	ÍõË¶	C:\Windows\Temp	4156	2021- 9- 8 16:16: 7
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Local\Temp	4156	2021- 9- 8 16:16: 7
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Local\Temp	4156	2021- 9- 8 16:16: 7
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Local\Microsoft\TokenBroker\Cache\b29e035f1bddc7107cd0039e67e937e7b7a2e150.tbres	4156	2021- 9- 8 16:16: 7
+1	ÍõË¶	C:\Windows\Temp	4156	2021- 9- 8 16:16: 7
+2	LOCAL SERVICE	C:\Windows\System32\winevt\Logs\Microsoft-Windows-LiveId%4Operational.evtx	1300	2021- 9- 8 16:16: 7
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Local\Temp	4156	2021- 9- 8 16:16: 7
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Local\Temp	4156	2021- 9- 8 16:16: 7
+2	LOCAL SERVICE	C:\Windows\System32\winevt\Logs\Security.evtx	1300	2021- 9- 8 16:16: 7
+1	DESKTOP-6CB4LM6$	C:\Windows\System32\Microsoft\Protect\S-1-5-18\User\Preferred	648	2021- 9- 8 16:16: 7
+1	DESKTOP-6CB4LM6$	C:\Windows\System32\Microsoft\Protect\S-1-5-18\User\Preferred	648	2021- 9- 8 16:16: 7
+1	DESKTOP-6CB4LM6$	C:\Windows\System32\Microsoft\Protect\S-1-5-18\User\Preferred	648	2021- 9- 8 16:16: 7
+1	DESKTOP-6CB4LM6$	C:\Windows\System32\Microsoft\Protect\S-1-5-18\User\Preferred	648	2021- 9- 8 16:16: 7
+1	DESKTOP-6CB4LM6$	C:\Windows\System32\Microsoft\Protect\S-1-5-18\User\Preferred	648	2021- 9- 8 16:16: 7
+1	DESKTOP-6CB4LM6$	C:\Windows\Prefetch\FILESYSTEMMONITORCLIENT.EXE-96F65BE7.pf	1920	2021- 9- 8 16:16: 8
+1	DESKTOP-6CB4LM6$	C:\Windows\Prefetch\FILESYSTEMMONITORCLIENT.EXE-96F65BE7.pf	1920	2021- 9- 8 16:16: 8
+1	DESKTOP-6CB4LM6$	C:\Windows\Prefetch\FILESYSTEMMONITORCLIENT.EXE-96F65BE7.pf	1920	2021- 9- 8 16:16: 8
+2	DESKTOP-6CB4LM6$	C:\Windows\Prefetch\FILESYSTEMMONITORCLIENT.EXE-96F65BE7.pf	1920	2021- 9- 8 16:16: 8
+2	DESKTOP-6CB4LM6$	x¡”ÿÿ	4	2021- 9- 8 16:16: 8
+2	DESKTOP-6CB4LM6$	x
+¤”ÿÿ	4	2021- 9- 8 16:16: 8
+2	DESKTOP-6CB4LM6$		4	2021- 9- 8 16:16: 8
+2	DESKTOP-6CB4LM6$	‘‡¤”ÿÿ	4	2021- 9- 8 16:16:10
+2	DESKTOP-6CB4LM6$	‘¡”ÿÿ	4	2021- 9- 8 16:16:10
+1	DESKTOP-6CB4LM6$	C:\ProgramData\VMware\VMware Tools\tools.conf	2660	2021- 9- 8 16:16:10
+1	ÍõË¶	C:\ProgramData\VMware\VMware Tools\tools.conf	7228	2021- 9- 8 16:16:10
+2	DESKTOP-6CB4LM6$	C:\ProgramData\Microsoft\Windows Defender\Scans\mpenginedb.db-wal	3084	2021- 9- 8 16:16:10
+2	DESKTOP-6CB4LM6$	C:\ProgramData\Microsoft\Windows Defender\Scans\mpenginedb.db-wal	3084	2021- 9- 8 16:16:10
+2	DESKTOP-6CB4LM6$	C:\ProgramData\Microsoft\Windows Defender\Scans\mpenginedb.db-wal	3084	2021- 9- 8 16:16:10
+2	DESKTOP-6CB4LM6$	C:\ProgramData\Microsoft\Windows Defender\Scans\mpenginedb.db-wal	3084	2021- 9- 8 16:16:10
+2	DESKTOP-6CB4LM6$	‘¤”ÿÿ	4	2021- 9- 8 16:16:11
+2	DESKTOP-6CB4LM6$	0üZKøÿÿ	4	2021- 9- 8 16:16:12
+2	DESKTOP-6CB4LM6$		4	2021- 9- 8 16:16:12
+2	DESKTOP-6CB4LM6$		4	2021- 9- 8 16:16:12
+1	ÍõË¶	C:\	8172	2021- 9- 8 16:16:13
+2	DESKTOP-6CB4LM6$	‘¡”ÿÿNa•E¢Éÿÿ¸¡”ÿÿ Ø)ÙÿÿäâªA	4	2021- 9- 8 16:16:14
+2	DESKTOP-6CB4LM6$		4	2021- 9- 8 16:16:14
+2	DESKTOP-6CB4LM6$		4	2021- 9- 8 16:16:14
+2	DESKTOP-6CB4LM6$		4	2021- 9- 8 16:16:14
+2	DESKTOP-6CB4LM6$		4	2021- 9- 8 16:16:14
+2	DESKTOP-6CB4LM6$		4	2021- 9- 8 16:16:14
+2	DESKTOP-6CB4LM6$		4	2021- 9- 8 16:16:14
+2	DESKTOP-6CB4LM6$		4	2021- 9- 8 16:16:14
+2	DESKTOP-6CB4LM6$		4	2021- 9- 8 16:16:14
+2	DESKTOP-6CB4LM6$		4	2021- 9- 8 16:16:14
+2	DESKTOP-6CB4LM6$		4	2021- 9- 8 16:16:14
+2	DESKTOP-6CB4LM6$	‘‡¤”ÿÿMÈ)ÙÿÿP‰z)Ùÿÿ Ø)ÙÿÿÃDÀJøÿÿX‰z)Ùÿÿ	4	2021- 9- 8 16:16:14
+2	DESKTOP-6CB4LM6$		4	2021- 9- 8 16:16:14
+2	DESKTOP-6CB4LM6$	‘‡¤”ÿÿMÈ)ÙÿÿP‰z)Ùÿÿ Ø)ÙÿÿÃDÀJøÿÿX‰z)Ùÿÿ	4	2021- 9- 8 16:16:14
+2	DESKTOP-6CB4LM6$	‘‡¤”ÿÿ	4	2021- 9- 8 16:16:14
+2	DESKTOP-6CB4LM6$	‘‡¤”ÿÿ	4	2021- 9- 8 16:16:14
+2	DESKTOP-6CB4LM6$	@°E*Ùÿÿ€êFøÿÿ¸‡¤”ÿÿ	4	2021- 9- 8 16:16:14
+2	DESKTOP-6CB4LM6$	‘‡¤”ÿÿ	4	2021- 9- 8 16:16:14
+2	DESKTOP-6CB4LM6$	‘‡¤”ÿÿ	4	2021- 9- 8 16:16:14
+2	DESKTOP-6CB4LM6$	‘‡¤”ÿÿ	4	2021- 9- 8 16:16:14
+2	DESKTOP-6CB4LM6$	‘‡¤”ÿÿ	4	2021- 9- 8 16:16:14
+2	DESKTOP-6CB4LM6$	‘‡¤”ÿÿ	4	2021- 9- 8 16:16:14
+2	DESKTOP-6CB4LM6$	‘‡¤”ÿÿ	4	2021- 9- 8 16:16:14
+2	DESKTOP-6CB4LM6$	‘‡¤”ÿÿ	4	2021- 9- 8 16:16:14
+1	DESKTOP-6CB4LM6$	C:\ProgramData\VMware\VMware Tools\tools.conf	2660	2021- 9- 8 16:16:15
+1	ÍõË¶	C:\ProgramData\VMware\VMware Tools\tools.conf	7228	2021- 9- 8 16:16:15
+1	DESKTOP-6CB4LM6$	C:\ProgramData\Microsoft\Search\Data	6956	2021- 9- 8 16:16:15
+1	ÍõË¶	C:\Windows\System32\InputMethod\SHARED\ResourceDll.dll	4980	2021- 9- 8 16:16:17
+1	ÍõË¶	C:\Windows\System32\InputMethod\SHARED\ResourceDll.dll	4980	2021- 9- 8 16:16:17
+1	ÍõË¶	C:\Users\ÍõË¶	4560	2021- 9- 8 16:16:17
+1	ÍõË¶	C:\Windows\InputMethod\CHS\ChsPinyinFamilyName.lex	4560	2021- 9- 8 16:16:17
+2	DESKTOP-6CB4LM6$	$3Høÿÿ	4	2021- 9- 8 16:16:17
+2	DESKTOP-6CB4LM6$		4	2021- 9- 8 16:16:17
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming	4560	2021- 9- 8 16:16:17
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\InputMethod\Chs	4560	2021- 9- 8 16:16:17
+1	ÍõË¶	C:\Users\ÍõË¶	4560	2021- 9- 8 16:16:17
+1	ÍõË¶	C:\Users\ÍõË¶	4560	2021- 9- 8 16:16:17
+1	ÍõË¶	C:\Windows\InputMethod\CHS\ChsPinyinFamilyName.lex	5072	2021- 9- 8 16:16:17
+1	ÍõË¶	C:\Program Files\WindowsApps\Microsoft.LanguageExperiencePackzh-CN_17763.25.81.0_neutral__8wekyb3d8bbwe\Windows\System32\zh-CN\winlangdb.dll.mui	5276	2021- 9- 8 16:16:17
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming	4560	2021- 9- 8 16:16:17
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\InputMethod\Chs	5072	2021- 9- 8 16:16:17
+1	ÍõË¶	C:\Windows\InputMethod\CHS	5072	2021- 9- 8 16:16:17
+1	ÍõË¶	C:\Users\ÍõË¶	4560	2021- 9- 8 16:16:17
+1	ÍõË¶	C:\Windows\InputMethod\CHS\ChsPinyinFamilyName.lex	5072	2021- 9- 8 16:16:17
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming	4560	2021- 9- 8 16:16:17
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming	4560	2021- 9- 8 16:16:17
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\InputMethod\Chs\ChsPinyinIH.dat	5072	2021- 9- 8 16:16:17
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\InputMethod\Chs\ChsPinyinUDL_Beta.dat	4560	2021- 9- 8 16:16:17
+1	ÍõË¶	C:\Users\ÍõË¶	4560	2021- 9- 8 16:16:17
+1	ÍõË¶	C:\Windows\System32\Winlangdb.dll	5276	2021- 9- 8 16:16:17
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming	4560	2021- 9- 8 16:16:17
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming	4560	2021- 9- 8 16:16:17
+1	DESKTOP-6CB4LM6$	C:\Windows\System32\netutils.dll	416	2021- 9- 8 16:16:17
+1	ÍõË¶	C:\Users\ÍõË¶	4560	2021- 9- 8 16:16:17
+1	ÍõË¶	C:\Users\ÍõË¶	5072	2021- 9- 8 16:16:17
+1	ÍõË¶	C:\Users\ÍõË¶	4560	2021- 9- 8 16:16:17
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming	4560	2021- 9- 8 16:16:17
+1	DESKTOP-6CB4LM6$	C:\Windows\System32\netutils.dll	3084	2021- 9- 8 16:16:17
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming	5072	2021- 9- 8 16:16:17
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\InputMethod\Chs\ChsPinyinIH_Beta.dat	4560	2021- 9- 8 16:16:17
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\InputMethod\Chs	5072	2021- 9- 8 16:16:17
+1	ÍõË¶	C:\Users\ÍõË¶	4560	2021- 9- 8 16:16:17
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming	4560	2021- 9- 8 16:16:17
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming	4560	2021- 9- 8 16:16:17
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\InputMethod\Chs	4560	2021- 9- 8 16:16:17
+1	ÍõË¶	C:\Users\ÍõË¶	4560	2021- 9- 8 16:16:17
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming	4560	2021- 9- 8 16:16:17
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming	4560	2021- 9- 8 16:16:17
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\InputMethod\Chs	4560	2021- 9- 8 16:16:17
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\InputMethod\Chs\ChsPinyinPinnedCands_Beta.dat	4560	2021- 9- 8 16:16:17
+1	ÍõË¶	C:\Users\ÍõË¶	4560	2021- 9- 8 16:16:17
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming	4560	2021- 9- 8 16:16:18
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming	4560	2021- 9- 8 16:16:18
+1	ÍõË¶	C:\Users\ÍõË¶	4560	2021- 9- 8 16:16:18
+1	ÍõË¶	C:\Users\ÍõË¶	4560	2021- 9- 8 16:16:18
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming	4560	2021- 9- 8 16:16:18
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\InputMethod\Chs	4560	2021- 9- 8 16:16:18
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\InputMethod\Chs\ChsPinyinDeletedCands_Beta.dat	4560	2021- 9- 8 16:16:18
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\InputMethod\Chs\ChsPinyinUDL_Beta.dat	4560	2021- 9- 8 16:16:18
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\InputMethod\Chs\ChsPinyinPinnedCands_Beta.dat	4560	2021- 9- 8 16:16:18
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\InputMethod\Chs\ChsPinyinDeletedCands_Beta.dat	4560	2021- 9- 8 16:16:18
+1	ÍõË¶	C:\Users\ÍõË¶	4560	2021- 9- 8 16:16:18
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming	4560	2021- 9- 8 16:16:18
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming	4560	2021- 9- 8 16:16:18
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\InputMethod\Chs\ChsPinyinUDL_Setting_Beta.dat	4560	2021- 9- 8 16:16:18
+1	ÍõË¶	C:\Users\ÍõË¶	4560	2021- 9- 8 16:16:18
+1	ÍõË¶	C:\Users\ÍõË¶	4560	2021- 9- 8 16:16:18
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming	4560	2021- 9- 8 16:16:18
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\InputMethod\Chs	4560	2021- 9- 8 16:16:18
+1	ÍõË¶	C:\Users\ÍõË¶	4560	2021- 9- 8 16:16:18
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming	4560	2021- 9- 8 16:16:18
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming	4560	2021- 9- 8 16:16:18
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\InputMethod\Chs	4560	2021- 9- 8 16:16:18
+1	ÍõË¶	C:\Users\ÍõË¶	4560	2021- 9- 8 16:16:18
+1	ÍõË¶	C:\Users\ÍõË¶	4560	2021- 9- 8 16:16:18
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming	4560	2021- 9- 8 16:16:18
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\InputMethod\Chs	4560	2021- 9- 8 16:16:18
+1	ÍõË¶	C:\Users\ÍõË¶	4560	2021- 9- 8 16:16:18
+1	ÍõË¶	C:\Users\ÍõË¶	4560	2021- 9- 8 16:16:18
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming	4560	2021- 9- 8 16:16:18
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\InputMethod\Chs	4560	2021- 9- 8 16:16:18
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\InputMethod\Chs\ChsPinyinIH_Beta.dat	4560	2021- 9- 8 16:16:18
+1	ÍõË¶	C:\Users\ÍõË¶	4560	2021- 9- 8 16:16:18
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming	4560	2021- 9- 8 16:16:18
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming	4560	2021- 9- 8 16:16:18
+1	ÍõË¶	C:\Users\ÍõË¶	4560	2021- 9- 8 16:16:18
+1	ÍõË¶	C:\Users\ÍõË¶	4560	2021- 9- 8 16:16:18
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming	4560	2021- 9- 8 16:16:18
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming	4560	2021- 9- 8 16:16:18
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\InputMethod\Chs	4560	2021- 9- 8 16:16:18
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\InputMethod\Chs\ChsPinyinPinnedCands_Beta.dat	4560	2021- 9- 8 16:16:18
+1	ÍõË¶	C:\Users\ÍõË¶	4560	2021- 9- 8 16:16:18
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming	4560	2021- 9- 8 16:16:18
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming	4560	2021- 9- 8 16:16:18
+1	ÍõË¶	C:\Users\ÍõË¶	4560	2021- 9- 8 16:16:18
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming	4560	2021- 9- 8 16:16:18
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming	4560	2021- 9- 8 16:16:18
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\InputMethod\Chs\ChsPinyinDeletedCands_Beta.dat	4560	2021- 9- 8 16:16:18
+1	ÍõË¶	C:\Users\ÍõË¶	4560	2021- 9- 8 16:16:18
+1	ÍõË¶	C:\Users\ÍõË¶	4560	2021- 9- 8 16:16:18
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming	4560	2021- 9- 8 16:16:18
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\InputMethod\Chs	4560	2021- 9- 8 16:16:18
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\InputMethod\Chs\ChsPinyinUDL_Setting_Beta.dat	4560	2021- 9- 8 16:16:18
+1	ÍõË¶	C:\Users\ÍõË¶	4560	2021- 9- 8 16:16:18
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming	4560	2021- 9- 8 16:16:18
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming	4560	2021- 9- 8 16:16:18
+1	ÍõË¶	C:\Users\ÍõË¶	4560	2021- 9- 8 16:16:18
+1	ÍõË¶	C:\Users\ÍõË¶	4560	2021- 9- 8 16:16:18
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming	4560	2021- 9- 8 16:16:18
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\InputMethod\Chs	4560	2021- 9- 8 16:16:18
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\InputMethod\Chs\ChsPinyinUDL_Beta.dat	4560	2021- 9- 8 16:16:18
+1	ÍõË¶	C:\Users\ÍõË¶	4560	2021- 9- 8 16:16:18
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming	4560	2021- 9- 8 16:16:18
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming	4560	2021- 9- 8 16:16:18
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\InputMethod\Chs	4560	2021- 9- 8 16:16:18
+1	ÍõË¶	C:\Users\ÍõË¶	4560	2021- 9- 8 16:16:18
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming	4560	2021- 9- 8 16:16:18
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming	4560	2021- 9- 8 16:16:18
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\InputMethod\Chs\ChsPinyinIH_Beta.dat	4560	2021- 9- 8 16:16:18
+1	ÍõË¶	C:\Users\ÍõË¶	4560	2021- 9- 8 16:16:18
+1	ÍõË¶	C:\Users\ÍõË¶	4560	2021- 9- 8 16:16:18
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming	4560	2021- 9- 8 16:16:18
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\InputMethod\Chs	4560	2021- 9- 8 16:16:18
+1	ÍõË¶	C:\Users\ÍõË¶	4560	2021- 9- 8 16:16:18
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming	4560	2021- 9- 8 16:16:18
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming	4560	2021- 9- 8 16:16:18
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\InputMethod\Chs\ChsPinyinPinnedCands_Beta.dat	4560	2021- 9- 8 16:16:18
+1	ÍõË¶	C:\Users\ÍõË¶	4560	2021- 9- 8 16:16:18
+1	ÍõË¶	C:\Users\ÍõË¶	4560	2021- 9- 8 16:16:18
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming	4560	2021- 9- 8 16:16:18
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\InputMethod\Chs	4560	2021- 9- 8 16:16:18
+1	ÍõË¶	C:\Users\ÍõË¶	4560	2021- 9- 8 16:16:18
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming	4560	2021- 9- 8 16:16:18
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming	4560	2021- 9- 8 16:16:18
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\InputMethod\Chs\ChsPinyinDeletedCands_Beta.dat	4560	2021- 9- 8 16:16:18
+1	DESKTOP-6CB4LM6$	C:\ProgramData\VMware\VMware Tools\tools.conf	2660	2021- 9- 8 16:16:20
+1	ÍõË¶	C:\ProgramData\VMware\VMware Tools\tools.conf	7228	2021- 9- 8 16:16:20
+1	ÍõË¶	C:\Windows\media\Windows Background.wav	4328	2021- 9- 8 16:16:21
+2	(null)	C:\Users\ÍõË¶\ntuser.dat.LOG2	88	2021- 9- 8 16:16:21
+2	(null)		88	2021- 9- 8 16:16:21
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Local\Packages\Microsoft.Windows.Cortana_cw5n1h2txyewy\AppData\Indexed DB	5968	2021- 9- 8 16:16:23
+2	ÍõË¶	C:\Users\ÍõË¶\AppData\Local\Packages\Microsoft.Windows.Cortana_cw5n1h2txyewy\AppData\Indexed DB\IndexedDB.edb	5968	2021- 9- 8 16:16:23
+2	ÍõË¶	©İJHøÿÿÿÿÿÿÿÿÿÿÿ	5968	2021- 9- 8 16:16:23
+2	DESKTOP-6CB4LM6$	À¡”ÿÿ	4	2021- 9- 8 16:16:23
+2	ÍõË¶	C:\Users\ÍõË¶\AppData\Local\Packages\Microsoft.Windows.Cortana_cw5n1h2txyewy\AppData\Indexed DB\edb.log	5968	2021- 9- 8 16:16:23
+2	DESKTOP-6CB4LM6$	¡”ÿÿ,*)Ùÿÿà×)Ùÿÿ	4	2021- 9- 8 16:16:23
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\InputMethod\Chs	4560	2021- 9- 8 16:16:23
+1	ÍõË¶	C:\Windows\InputMethod\CHS	4560	2021- 9- 8 16:16:23
+1	ÍõË¶	C:\Users\ÍõË¶	4560	2021- 9- 8 16:16:23
+2	DESKTOP-6CB4LM6$	¡”ÿÿ	4	2021- 9- 8 16:16:23
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming	4560	2021- 9- 8 16:16:23
+1	ÍõË¶	C:\Windows\InputMethod\CHS	4560	2021- 9- 8 16:16:23
+1	ÍõË¶	C:\Windows\InputMethod\CHS\ChsPinyinFamilyName.lex	5072	2021- 9- 8 16:16:23
+1	ÍõË¶	C:\	4980	2021- 9- 8 16:16:23
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\InputMethod\Chs	4560	2021- 9- 8 16:16:23
+1	ÍõË¶	C:\Windows\InputMethod\CHS\ChsPinyinFamilyName.lex	5072	2021- 9- 8 16:16:23
+1	ÍõË¶	C:\Users\ÍõË¶	5072	2021- 9- 8 16:16:23
+1	ÍõË¶	C:\Users\ÍõË¶	4560	2021- 9- 8 16:16:23
+2	DESKTOP-6CB4LM6$	¡”ÿÿ	4	2021- 9- 8 16:16:23
+1	ÍõË¶	C:\Users\ÍõË¶	4980	2021- 9- 8 16:16:23
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming	4560	2021- 9- 8 16:16:23
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming	4560	2021- 9- 8 16:16:23
+2	DESKTOP-6CB4LM6$	¡”ÿÿ	4	2021- 9- 8 16:16:23
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\InputMethod\Chs	5072	2021- 9- 8 16:16:23
+1	ÍõË¶	C:\Users\ÍõË¶	4560	2021- 9- 8 16:16:23
+1	ÍõË¶	C:\Users\ÍõË¶	4560	2021- 9- 8 16:16:23
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\InputMethod\Chs\ChsPinyinUDL.dat	5072	2021- 9- 8 16:16:23
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming	4560	2021- 9- 8 16:16:23
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\InputMethod\Chs	4560	2021- 9- 8 16:16:23
+1	DESKTOP-6CB4LM6$	C:\	3856	2021- 9- 8 16:16:23
+1	DESKTOP-6CB4LM6$	C:\Windows\System32\msrle32.dll	3856	2021- 9- 8 16:16:23
+2	ÍõË¶	C:\Users\ÍõË¶\AppData\Local\Packages\Microsoft.Windows.Cortana_cw5n1h2txyewy\AppData\Indexed DB\IndexedDB.edb	5968	2021- 9- 8 16:16:23
+1	ÍõË¶	C:\Users\ÍõË¶	4560	2021- 9- 8 16:16:23
+1	DESKTOP-6CB4LM6$	C:\Windows\System32\iyuv_32.dll	3856	2021- 9- 8 16:16:23
+2	ÍõË¶	9>wKøÿÿĞ‹6Høÿÿàİ^¤”ÿÿã^¤”ÿÿ	5968	2021- 9- 8 16:16:23
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\InputMethod\Chs\ChsPinyinDeletedCands.dat	5072	2021- 9- 8 16:16:23
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming	4560	2021- 9- 8 16:16:23
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\InputMethod\Chs\ChsPinyinHap_s.lex	5072	2021- 9- 8 16:16:23
+1	DESKTOP-6CB4LM6$	C:\	3856	2021- 9- 8 16:16:23
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\InputMethod\Chs	4560	2021- 9- 8 16:16:23
+1	ÍõË¶	C:\Users\ÍõË¶	4560	2021- 9- 8 16:16:23
+1	DESKTOP-6CB4LM6$	C:\Windows\System32\msadp32.acm	3856	2021- 9- 8 16:16:23
+1	ÍõË¶	C:\Users\ÍõË¶	4560	2021- 9- 8 16:16:23
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming	4560	2021- 9- 8 16:16:23
+1	DESKTOP-6CB4LM6$	C:\Windows\System32\msvidc32.dll	3856	2021- 9- 8 16:16:23
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Local\Packages\Microsoft.Windows.Cortana_cw5n1h2txyewy\AppData\Indexed DB\edb.chk	5968	2021- 9- 8 16:16:23
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\InputMethod\Chs\ChsPinyinIH_Beta.dat	4560	2021- 9- 8 16:16:23
+1	DESKTOP-6CB4LM6$	C:\Users\ÍõË¶\AppData\Local\Packages\Microsoft.Windows.Cortana_cw5n1h2txyewy\AppData\Indexed DB\IndexedDB.edb	3084	2021- 9- 8 16:16:23
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming	5072	2021- 9- 8 16:16:23
+1	ÍõË¶	C:\Users\ÍõË¶	4560	2021- 9- 8 16:16:23
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\InputMethod\Chs	5072	2021- 9- 8 16:16:23
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Local\Packages\Microsoft.Windows.Cortana_cw5n1h2txyewy\AppData\Indexed DB	5968	2021- 9- 8 16:16:23
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming	4560	2021- 9- 8 16:16:23
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Local\Packages\Microsoft.Windows.Cortana_cw5n1h2txyewy\AppData\Indexed DB	5968	2021- 9- 8 16:16:23
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\InputMethod\Chs	4560	2021- 9- 8 16:16:23
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\InputMethod\Chs	5072	2021- 9- 8 16:16:23
+1	ÍõË¶	C:\Users\ÍõË¶	4560	2021- 9- 8 16:16:23
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Local\Packages\Microsoft.Windows.Cortana_cw5n1h2txyewy\AppData\Indexed DB	5968	2021- 9- 8 16:16:23
+1	ÍõË¶	C:\Users\ÍõË¶	5072	2021- 9- 8 16:16:23
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming	4560	2021- 9- 8 16:16:23
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\InputMethod\Chs	4560	2021- 9- 8 16:16:23
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming	5072	2021- 9- 8 16:16:23
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Local\Packages\Microsoft.Windows.Cortana_cw5n1h2txyewy\AppData	5968	2021- 9- 8 16:16:23
+1	ÍõË¶	C:\Users\ÍõË¶	4560	2021- 9- 8 16:16:23
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Local\Packages\Microsoft.Windows.Cortana_cw5n1h2txyewy\AppData	5968	2021- 9- 8 16:16:23
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\InputMethod\Chs\ChsPinyinUDL_Setting.dat	5072	2021- 9- 8 16:16:23
+1	ÍõË¶	C:\Users\ÍõË¶	4560	2021- 9- 8 16:16:23
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming	4560	2021- 9- 8 16:16:23
+1	DESKTOP-6CB4LM6$	C:\pagefile.sys	2660	2021- 9- 8 16:16:23
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\InputMethod\Chs\ChsPinyinIH.dat	5072	2021- 9- 8 16:16:23
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Local\Packages\Microsoft.Windows.Cortana_cw5n1h2txyewy	5968	2021- 9- 8 16:16:23
+1	ÍõË¶	C:\Users\ÍõË¶	4560	2021- 9- 8 16:16:23
+1	DESKTOP-6CB4LM6$	C:\pagefile.sys	2660	2021- 9- 8 16:16:23
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Local\Packages\Microsoft.Windows.Cortana_cw5n1h2txyewy	5968	2021- 9- 8 16:16:23
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming	4560	2021- 9- 8 16:16:23
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming	4560	2021- 9- 8 16:16:23
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\InputMethod\Chs\ChsPinyinHap_s.lex	5072	2021- 9- 8 16:16:23
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Local\Packages\Microsoft.Windows.Cortana_cw5n1h2txyewy	5968	2021- 9- 8 16:16:23
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\InputMethod\Chs\ChsPinyinDeletedCands_Beta.dat	4560	2021- 9- 8 16:16:23
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Local\Packages	5968	2021- 9- 8 16:16:23
+1	ÍõË¶	C:\Users\ÍõË¶	5072	2021- 9- 8 16:16:23
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\InputMethod\Chs\ChsPinyinUDL_Beta.dat	4560	2021- 9- 8 16:16:23
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\InputMethod\Chs\ChsPinyinPinnedCands_Beta.dat	4560	2021- 9- 8 16:16:23
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Local\Packages	5968	2021- 9- 8 16:16:23
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming	5072	2021- 9- 8 16:16:23
+1	ÍõË¶	C:\Users\ÍõË¶	4560	2021- 9- 8 16:16:23
+1	ÍõË¶	C:\Users\ÍõË¶	4560	2021- 9- 8 16:16:23
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Local	5968	2021- 9- 8 16:16:23
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\InputMethod\Chs\ChsPinyinUDL_Setting.dat	5072	2021- 9- 8 16:16:23
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming	4560	2021- 9- 8 16:16:23
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Local	5968	2021- 9- 8 16:16:23
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\InputMethod\Chs	4560	2021- 9- 8 16:16:23
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Local	5968	2021- 9- 8 16:16:23
+1	ÍõË¶	C:\Users\ÍõË¶	4560	2021- 9- 8 16:16:23
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Local	5968	2021- 9- 8 16:16:23
+1	ÍõË¶	C:\Users\ÍõË¶	4560	2021- 9- 8 16:16:23
+1	ÍõË¶	C:\Users\ÍõË¶\AppData	5968	2021- 9- 8 16:16:23
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming	4560	2021- 9- 8 16:16:23
+1	ÍõË¶	C:\Users\ÍõË¶\AppData	5968	2021- 9- 8 16:16:23
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\InputMethod\Chs	4560	2021- 9- 8 16:16:23
+1	ÍõË¶	C:\Users\ÍõË¶\AppData	5968	2021- 9- 8 16:16:23
+1	ÍõË¶	C:\Users\ÍõË¶	4560	2021- 9- 8 16:16:23
+1	ÍõË¶	C:\Users\ÍõË¶	5968	2021- 9- 8 16:16:23
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming	4560	2021- 9- 8 16:16:23
+1	ÍõË¶	C:\Users\ÍõË¶	5968	2021- 9- 8 16:16:23
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\InputMethod\Chs	4560	2021- 9- 8 16:16:23
+1	ÍõË¶	C:\Users\ÍõË¶	5968	2021- 9- 8 16:16:23
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\InputMethod\Chs\ChsPinyinUDL_Beta.dat	4560	2021- 9- 8 16:16:23
+1	ÍõË¶	C:\Users\ÍõË¶	5968	2021- 9- 8 16:16:23
+1	ÍõË¶	C:\Users\ÍõË¶	4560	2021- 9- 8 16:16:23
+1	ÍõË¶	C:\Users	5968	2021- 9- 8 16:16:23
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming	4560	2021- 9- 8 16:16:23
+1	ÍõË¶	C:\Users	5968	2021- 9- 8 16:16:23
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\InputMethod\Chs	4560	2021- 9- 8 16:16:23
+1	ÍõË¶	C:\Users\ÍõË¶	4560	2021- 9- 8 16:16:23
+1	ÍõË¶	C:\Users	5968	2021- 9- 8 16:16:23
+1	ÍõË¶	C:\Users\ÍõË¶	4560	2021- 9- 8 16:16:23
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Local\Packages\Microsoft.Windows.Cortana_cw5n1h2txyewy\AppData\Indexed DB\edb.chk	5968	2021- 9- 8 16:16:23
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming	4560	2021- 9- 8 16:16:23
+2	ÍõË¶	C:\Users\ÍõË¶\AppData\Local\Packages\Microsoft.Windows.Cortana_cw5n1h2txyewy\AppData\Indexed DB\edb.chk	5968	2021- 9- 8 16:16:23
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\InputMethod\Chs	4560	2021- 9- 8 16:16:23
+1	ÍõË¶	C:\Users\ÍõË¶	4560	2021- 9- 8 16:16:23
+2	DESKTOP-6CB4LM6$	¡”ÿÿ¸*ÙÿÿP‰z)Ùÿÿ0+'ÙÿÿÃDÀJøÿÿX‰z)Ùÿÿ	4	2021- 9- 8 16:16:23
+1	ÍõË¶	C:\Users\ÍõË¶	4560	2021- 9- 8 16:16:23
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming	4560	2021- 9- 8 16:16:23
+2	DESKTOP-6CB4LM6$	¡”ÿÿ	4	2021- 9- 8 16:16:23
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\InputMethod\Chs	4560	2021- 9- 8 16:16:23
+2	ÍõË¶		5968	2021- 9- 8 16:16:23
+1	ÍõË¶	C:\Users\ÍõË¶	4560	2021- 9- 8 16:16:23
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming	4560	2021- 9- 8 16:16:23
+2	ÍõË¶	C:\Users\ÍõË¶\AppData\Local\Packages\Microsoft.Windows.Cortana_cw5n1h2txyewy\AppData\Indexed DB\edb.chk	5968	2021- 9- 8 16:16:23
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\InputMethod\Chs	4560	2021- 9- 8 16:16:23
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\InputMethod\Chs\ChsPinyinPinnedCands_Beta.dat	4560	2021- 9- 8 16:16:23
+2	DESKTOP-6CB4LM6$	¡”ÿÿ	4	2021- 9- 8 16:16:23
+1	ÍõË¶	C:\Users\ÍõË¶	4560	2021- 9- 8 16:16:23
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming	4560	2021- 9- 8 16:16:23
+2	DESKTOP-6CB4LM6$	¡”ÿÿ	4	2021- 9- 8 16:16:23
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming	4560	2021- 9- 8 16:16:23
+2	ÍõË¶		5968	2021- 9- 8 16:16:23
+1	ÍõË¶	C:\Users\ÍõË¶	4560	2021- 9- 8 16:16:23
+2	DESKTOP-6CB4LM6$	¡”ÿÿ	4	2021- 9- 8 16:16:23
+1	ÍõË¶	C:\Users\ÍõË¶	4560	2021- 9- 8 16:16:23
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming	4560	2021- 9- 8 16:16:23
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming	4560	2021- 9- 8 16:16:23
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\InputMethod\Chs	4560	2021- 9- 8 16:16:23
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\InputMethod\Chs\ChsPinyinDeletedCands_Beta.dat	4560	2021- 9- 8 16:16:23
+1	ÍõË¶	C:\Users\ÍõË¶	4560	2021- 9- 8 16:16:24
+2	ÍõË¶	C:\Users\ÍõË¶\AppData\Local\Packages\Microsoft.Windows.Cortana_cw5n1h2txyewy\AppData\Indexed DB\edb.log	5968	2021- 9- 8 16:16:24
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming	4560	2021- 9- 8 16:16:24
+2	DESKTOP-6CB4LM6$	¡”ÿÿ	4	2021- 9- 8 16:16:24
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\InputMethod\Chs	4560	2021- 9- 8 16:16:24
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\InputMethod\Chs\ChsPinyinUDL_Setting_Beta.dat	4560	2021- 9- 8 16:16:24
+2	DESKTOP-6CB4LM6$	¡”ÿÿ	4	2021- 9- 8 16:16:24
+1	ÍõË¶	C:\Users\ÍõË¶	4560	2021- 9- 8 16:16:24
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming	4560	2021- 9- 8 16:16:24
+2	ÍõË¶	C:\Users\ÍõË¶\AppData\Local\Packages\Microsoft.Windows.Cortana_cw5n1h2txyewy\AppData\Indexed DB\edb.chk	5968	2021- 9- 8 16:16:24
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\InputMethod\Chs	4560	2021- 9- 8 16:16:24
+2	DESKTOP-6CB4LM6$	¡”ÿÿ	4	2021- 9- 8 16:16:24
+1	ÍõË¶	C:\Users\ÍõË¶	4560	2021- 9- 8 16:16:24
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming	4560	2021- 9- 8 16:16:24
+2	DESKTOP-6CB4LM6$	¡”ÿÿ	4	2021- 9- 8 16:16:24
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming	4560	2021- 9- 8 16:16:24
+2	ÍõË¶		5968	2021- 9- 8 16:16:24
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\InputMethod\Chs\ChsPinyinUDL_Beta.dat	4560	2021- 9- 8 16:16:24
+2	(null)	C:\Users\ÍõË¶\ntuser.dat.LOG2	88	2021- 9- 8 16:16:24
+1	DESKTOP-6CB4LM6$	C:\Users\ÍõË¶\AppData\Local\Packages\Microsoft.Windows.Cortana_cw5n1h2txyewy\AppData\Indexed DB\edb.log:Zone.Identifier	3084	2021- 9- 8 16:16:24
+1	ÍõË¶	C:\Users\ÍõË¶	4560	2021- 9- 8 16:16:24
+2	(null)	C:\Users\ÍõË¶\NTUSER.DAT	88	2021- 9- 8 16:16:24
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming	4560	2021- 9- 8 16:16:24
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\InputMethod\Chs	4560	2021- 9- 8 16:16:24
+2	(null)	C:\Users\ÍõË¶\NTUSER.DAT	88	2021- 9- 8 16:16:24
+1	ÍõË¶	C:\Users\ÍõË¶	4560	2021- 9- 8 16:16:24
+2	(null)	C:\Users\ÍõË¶\NTUSER.DAT	88	2021- 9- 8 16:16:24
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming	4560	2021- 9- 8 16:16:24
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\InputMethod\Chs	4560	2021- 9- 8 16:16:24
+2	(null)	C:\Users\ÍõË¶\NTUSER.DAT	88	2021- 9- 8 16:16:24
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\InputMethod\Chs\ChsPinyinIH_Beta.dat	4560	2021- 9- 8 16:16:24
+1	ÍõË¶	C:\Users\ÍõË¶	4560	2021- 9- 8 16:16:24
+2	(null)	C:\Users\ÍõË¶\NTUSER.DAT	88	2021- 9- 8 16:16:24
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming	4560	2021- 9- 8 16:16:24
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming	4560	2021- 9- 8 16:16:24
+2	(null)	C:\Users\ÍõË¶\NTUSER.DAT	88	2021- 9- 8 16:16:24
+2	(null)	C:\Users\ÍõË¶\NTUSER.DAT	88	2021- 9- 8 16:16:24
+1	ÍõË¶	C:\Users\ÍõË¶	4560	2021- 9- 8 16:16:24
+2	(null)	C:\Users\ÍõË¶\NTUSER.DAT	88	2021- 9- 8 16:16:24
+1	DESKTOP-6CB4LM6$	C:\Users\ÍõË¶\AppData\Local\Packages\Microsoft.Windows.Cortana_cw5n1h2txyewy\AppData\Indexed DB\edb.chk	3084	2021- 9- 8 16:16:24
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming	4560	2021- 9- 8 16:16:24
+2	(null)	C:\Users\ÍõË¶\NTUSER.DAT	88	2021- 9- 8 16:16:24
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming	4560	2021- 9- 8 16:16:24
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\InputMethod\Chs\ChsPinyinPinnedCands_Beta.dat	4560	2021- 9- 8 16:16:24
+1	DESKTOP-6CB4LM6$	C:\Users\ÍõË¶\AppData\Local\Packages\Microsoft.Windows.Cortana_cw5n1h2txyewy\AppData\Indexed DB\edb.log	3084	2021- 9- 8 16:16:24
+1	ÍõË¶	C:\Users\ÍõË¶	4560	2021- 9- 8 16:16:24
+2	(null)	C:\Users\ÍõË¶\NTUSER.DAT	88	2021- 9- 8 16:16:24
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming	4560	2021- 9- 8 16:16:24
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\InputMethod\Chs	4560	2021- 9- 8 16:16:24
+2	(null)	C:\Users\ÍõË¶\NTUSER.DAT	88	2021- 9- 8 16:16:24
+1	ÍõË¶	C:\Users\ÍõË¶	4560	2021- 9- 8 16:16:24
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming	4560	2021- 9- 8 16:16:24
+2	(null)	C:\Users\ÍõË¶\NTUSER.DAT	88	2021- 9- 8 16:16:24
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming	4560	2021- 9- 8 16:16:24
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\InputMethod\Chs\ChsPinyinDeletedCands_Beta.dat	4560	2021- 9- 8 16:16:24
+2	(null)	C:\Users\ÍõË¶\NTUSER.DAT	88	2021- 9- 8 16:16:24
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\InputMethod\Chs	4560	2021- 9- 8 16:16:24
+1	ÍõË¶	C:\Users\ÍõË¶	4560	2021- 9- 8 16:16:24
+2	(null)	C:\Users\ÍõË¶\NTUSER.DAT	88	2021- 9- 8 16:16:24
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming	4560	2021- 9- 8 16:16:24
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\InputMethod\Chs	4560	2021- 9- 8 16:16:24
+2	(null)	C:\Users\ÍõË¶\NTUSER.DAT	88	2021- 9- 8 16:16:24
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\InputMethod\Chs\ChsPinyinUDL_Setting_Beta.dat	4560	2021- 9- 8 16:16:24
+1	ÍõË¶	C:\Users\ÍõË¶	4560	2021- 9- 8 16:16:24
+2	(null)	C:\Users\ÍõË¶\NTUSER.DAT	88	2021- 9- 8 16:16:24
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming	4560	2021- 9- 8 16:16:24
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\InputMethod\Chs	4560	2021- 9- 8 16:16:24
+2	(null)	C:\Users\ÍõË¶\NTUSER.DAT	88	2021- 9- 8 16:16:24
+1	ÍõË¶	C:\Users\ÍõË¶	4560	2021- 9- 8 16:16:24
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming	4560	2021- 9- 8 16:16:24
+2	(null)	C:\Users\ÍõË¶\NTUSER.DAT	88	2021- 9- 8 16:16:24
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming	4560	2021- 9- 8 16:16:24
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\InputMethod\Chs\ChsPinyinUDL_Beta.dat	4560	2021- 9- 8 16:16:24
+2	(null)	C:\Users\ÍõË¶\NTUSER.DAT	88	2021- 9- 8 16:16:24
+1	ÍõË¶	C:\Users\ÍõË¶	4560	2021- 9- 8 16:16:24
+2	(null)	C:\Users\ÍõË¶\NTUSER.DAT	88	2021- 9- 8 16:16:24
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming	4560	2021- 9- 8 16:16:24
+2	(null)	C:\Users\ÍõË¶\NTUSER.DAT	88	2021- 9- 8 16:16:24
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming	4560	2021- 9- 8 16:16:24
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\InputMethod\Chs	4560	2021- 9- 8 16:16:24
+2	(null)	C:\Users\ÍõË¶\NTUSER.DAT	88	2021- 9- 8 16:16:24
+1	ÍõË¶	C:\Users\ÍõË¶	4560	2021- 9- 8 16:16:24
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming	4560	2021- 9- 8 16:16:24
+2	(null)	C:\Users\ÍõË¶\NTUSER.DAT	88	2021- 9- 8 16:16:24
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\InputMethod\Chs	4560	2021- 9- 8 16:16:24
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\InputMethod\Chs\ChsPinyinIH_Beta.dat	4560	2021- 9- 8 16:16:24
+2	(null)	C:\Users\ÍõË¶\NTUSER.DAT	88	2021- 9- 8 16:16:24
+1	ÍõË¶	C:\Users\ÍõË¶	4560	2021- 9- 8 16:16:24
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming	4560	2021- 9- 8 16:16:24
+2	(null)	C:\Users\ÍõË¶\NTUSER.DAT	88	2021- 9- 8 16:16:24
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming	4560	2021- 9- 8 16:16:24
+1	ÍõË¶	C:\Users\ÍõË¶	4560	2021- 9- 8 16:16:24
+2	(null)		88	2021- 9- 8 16:16:24
+1	ÍõË¶	C:\Users\ÍõË¶	4560	2021- 9- 8 16:16:24
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming	4560	2021- 9- 8 16:16:24
+2	(null)	Œ¡”ÿÿ	88	2021- 9- 8 16:16:24
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\InputMethod\Chs\ChsPinyinPinnedCands_Beta.dat	4560	2021- 9- 8 16:16:24
+2	(null)	Œ¡”ÿÿ	88	2021- 9- 8 16:16:24
+1	ÍõË¶	C:\Users\ÍõË¶	4560	2021- 9- 8 16:16:24
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming	4560	2021- 9- 8 16:16:24
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming	4560	2021- 9- 8 16:16:24
+2	(null)	Œ¡”ÿÿ	88	2021- 9- 8 16:16:24
+1	ÍõË¶	C:\Users\ÍõË¶	4560	2021- 9- 8 16:16:24
+2	(null)	Œ¡”ÿÿ	88	2021- 9- 8 16:16:24
+1	ÍõË¶	C:\Users\ÍõË¶	4560	2021- 9- 8 16:16:24
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming	4560	2021- 9- 8 16:16:24
+2	(null)	Œ¡”ÿÿ	88	2021- 9- 8 16:16:24
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\InputMethod\Chs	4560	2021- 9- 8 16:16:24
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\InputMethod\Chs\ChsPinyinUDL_Beta.dat	4560	2021- 9- 8 16:16:24
+2	(null)	Œ¡”ÿÿ	88	2021- 9- 8 16:16:24
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\InputMethod\Chs\ChsPinyinPinnedCands_Beta.dat	4560	2021- 9- 8 16:16:24
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\InputMethod\Chs\ChsPinyinDeletedCands_Beta.dat	4560	2021- 9- 8 16:16:24
+2	(null)	Œ¡”ÿÿ	88	2021- 9- 8 16:16:24
+1	ÍõË¶	C:\Users\ÍõË¶	4560	2021- 9- 8 16:16:24
+2	(null)	Œ¡”ÿÿ	88	2021- 9- 8 16:16:24
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming	4560	2021- 9- 8 16:16:24
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\InputMethod\Chs	4560	2021- 9- 8 16:16:24
+2	(null)	Œ¡”ÿÿ	88	2021- 9- 8 16:16:24
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\InputMethod\Chs\ChsPinyinUDL_Setting_Beta.dat	4560	2021- 9- 8 16:16:24
+1	ÍõË¶	C:\Users\ÍõË¶	4560	2021- 9- 8 16:16:24
+2	(null)	Œ¡”ÿÿ	88	2021- 9- 8 16:16:24
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming	4560	2021- 9- 8 16:16:24
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\InputMethod\Chs	4560	2021- 9- 8 16:16:24
+2	(null)	Œ¡”ÿÿ	88	2021- 9- 8 16:16:24
+1	ÍõË¶	C:\Users\ÍõË¶	4560	2021- 9- 8 16:16:24
+2	(null)	Œ¡”ÿÿ	88	2021- 9- 8 16:16:24
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming	4560	2021- 9- 8 16:16:24
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\InputMethod\Chs	4560	2021- 9- 8 16:16:24
+2	(null)	Œ¡”ÿÿ	88	2021- 9- 8 16:16:24
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\InputMethod\Chs\ChsPinyinUDL_Beta.dat	4560	2021- 9- 8 16:16:24
+1	ÍõË¶	C:\Users\ÍõË¶	4560	2021- 9- 8 16:16:24
+2	(null)	Œ¡”ÿÿ	88	2021- 9- 8 16:16:24
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming	4560	2021- 9- 8 16:16:24
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\InputMethod\Chs	4560	2021- 9- 8 16:16:24
+2	(null)	Œ¡”ÿÿ	88	2021- 9- 8 16:16:24
+1	ÍõË¶	C:\Users\ÍõË¶	4560	2021- 9- 8 16:16:24
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming	4560	2021- 9- 8 16:16:24
+2	(null)	Œ¡”ÿÿ	88	2021- 9- 8 16:16:24
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming	4560	2021- 9- 8 16:16:24
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\InputMethod\Chs\ChsPinyinIH_Beta.dat	4560	2021- 9- 8 16:16:24
+2	(null)	Œ¡”ÿÿ	88	2021- 9- 8 16:16:24
+1	ÍõË¶	C:\Users\ÍõË¶	4560	2021- 9- 8 16:16:24
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming	4560	2021- 9- 8 16:16:24
+2	(null)	Œ¡”ÿÿ	88	2021- 9- 8 16:16:24
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming	4560	2021- 9- 8 16:16:24
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\InputMethod\Chs	4560	2021- 9- 8 16:16:24
+2	(null)	Œ¡”ÿÿ	88	2021- 9- 8 16:16:24
+1	ÍõË¶	C:\Users\ÍõË¶	4560	2021- 9- 8 16:16:24
+2	(null)	Œ¡”ÿÿ	88	2021- 9- 8 16:16:24
+1	ÍõË¶	C:\Users\ÍõË¶	4560	2021- 9- 8 16:16:24
+2	(null)	Œ¡”ÿÿ	88	2021- 9- 8 16:16:24
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming	4560	2021- 9- 8 16:16:24
+2	(null)	Œ¡”ÿÿ	88	2021- 9- 8 16:16:24
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\InputMethod\Chs	4560	2021- 9- 8 16:16:24
+1	ÍõË¶	C:\Users\ÍõË¶	4560	2021- 9- 8 16:16:24
+2	(null)	Œ¡”ÿÿ	88	2021- 9- 8 16:16:24
+1	ÍõË¶	C:\Users\ÍõË¶	4560	2021- 9- 8 16:16:24
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming	4560	2021- 9- 8 16:16:24
+2	(null)	Œ¡”ÿÿ	88	2021- 9- 8 16:16:24
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\InputMethod\Chs	4560	2021- 9- 8 16:16:24
+1	ÍõË¶	C:\Users\ÍõË¶	4560	2021- 9- 8 16:16:24
+2	(null)	C:\Users\ÍõË¶\AppData\Local\Packages\Microsoft.Windows.Cortana_cw5n1h2txyewy\Settings\settings.dat	88	2021- 9- 8 16:16:24
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming	4560	2021- 9- 8 16:16:24
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\InputMethod\Chs	4560	2021- 9- 8 16:16:24
+2	(null)	C:\Users\ÍõË¶\AppData\Local\Packages\Microsoft.Windows.Cortana_cw5n1h2txyewy\Settings\settings.dat	88	2021- 9- 8 16:16:24
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\InputMethod\Chs\ChsPinyinDeletedCands_Beta.dat	4560	2021- 9- 8 16:16:24
+1	ÍõË¶	C:\Users\ÍõË¶	4560	2021- 9- 8 16:16:24
+2	(null)	C:\Users\ÍõË¶\AppData\Local\Packages\Microsoft.Windows.Cortana_cw5n1h2txyewy\Settings\settings.dat	88	2021- 9- 8 16:16:24
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming	4560	2021- 9- 8 16:16:24
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\InputMethod\Chs	4560	2021- 9- 8 16:16:24
+2	(null)	C:\Users\ÍõË¶\AppData\Local\Packages\Microsoft.Windows.Cortana_cw5n1h2txyewy\Settings\settings.dat	88	2021- 9- 8 16:16:24
+1	ÍõË¶	C:\Users\ÍõË¶	4560	2021- 9- 8 16:16:24
+1	ÍõË¶	C:\Users\ÍõË¶	4560	2021- 9- 8 16:16:24
+2	(null)		88	2021- 9- 8 16:16:24
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming	4560	2021- 9- 8 16:16:24
+1	ÍõË¶	C:\Users\ÍõË¶	4560	2021- 9- 8 16:16:25
+1	DESKTOP-6CB4LM6$	C:\Users\ÍõË¶\Desktop\Release\rule\rule.txt	3084	2021- 9- 8 16:16:25
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming	4560	2021- 9- 8 16:16:25
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\InputMethod\Chs	4560	2021- 9- 8 16:16:25
+1	ÍõË¶	C:\Users\ÍõË¶	4560	2021- 9- 8 16:16:25
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming	4560	2021- 9- 8 16:16:25
+1	DESKTOP-6CB4LM6$	C:\Users\ÍõË¶\Desktop\Release\rule\rule.txt	3084	2021- 9- 8 16:16:25
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\InputMethod\Chs	4560	2021- 9- 8 16:16:25
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\InputMethod\Chs\ChsPinyinIH_Beta.dat	4560	2021- 9- 8 16:16:25
+1	ÍõË¶	C:\Users\ÍõË¶	4560	2021- 9- 8 16:16:25
+1	ÍõË¶	C:\Users\ÍõË¶	4560	2021- 9- 8 16:16:25
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming	4560	2021- 9- 8 16:16:25
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming	4560	2021- 9- 8 16:16:25
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\InputMethod\Chs	4560	2021- 9- 8 16:16:25
+1	ÍõË¶	C:\Users\ÍõË¶	4560	2021- 9- 8 16:16:25
+1	DESKTOP-6CB4LM6$	C:\Users\ÍõË¶\Desktop\Release\rule\rule.txt	3084	2021- 9- 8 16:16:25
+1	DESKTOP-6CB4LM6$	C:\Windows\System32\SearchProtocolHost.exe	6956	2021- 9- 8 16:16:25
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming	4560	2021- 9- 8 16:16:25
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\InputMethod\Chs	4560	2021- 9- 8 16:16:25
+1	ÍõË¶	C:\Users\ÍõË¶	4560	2021- 9- 8 16:16:25
+1	ÍõË¶	C:\Users\ÍõË¶	4560	2021- 9- 8 16:16:25
+1	DESKTOP-6CB4LM6$	C:\Windows\System32\SearchProtocolHost.exe	3084	2021- 9- 8 16:16:25
+2	DESKTOP-6CB4LM6$	C:\ProgramData\Microsoft\Windows Defender\Scans\mpenginedb.db-wal	3084	2021- 9- 8 16:16:25
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming	4560	2021- 9- 8 16:16:25
+2	DESKTOP-6CB4LM6$	C:\ProgramData\Microsoft\Windows Defender\Scans\mpenginedb.db-wal	3084	2021- 9- 8 16:16:25
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\InputMethod\Chs	4560	2021- 9- 8 16:16:25
+1	DESKTOP-6CB4LM6$	C:\ProgramData\VMware\VMware Tools\tools.conf	2660	2021- 9- 8 16:16:25
+2	DESKTOP-6CB4LM6$	C:\ProgramData\Microsoft\Windows Defender\Scans\mpenginedb.db-wal	3084	2021- 9- 8 16:16:25
+1	ÍõË¶	C:\Users\ÍõË¶	4560	2021- 9- 8 16:16:25
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming	4560	2021- 9- 8 16:16:25
+1	DESKTOP-6CB4LM6$	C:\Windows\apppatch\sysmain.sdb	412	2021- 9- 8 16:16:25
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\InputMethod\Chs	4560	2021- 9- 8 16:16:25
+1	DESKTOP-6CB4LM6$	C:\Windows\apppatch\sysmain.sdb	6956	2021- 9- 8 16:16:25
+1	DESKTOP-6CB4LM6$	C:\Windows\System32	8900	2021- 9- 8 16:16:25
+1	DESKTOP-6CB4LM6$	C:\Windows\System32\SearchProtocolHost.exe	3084	2021- 9- 8 16:16:25
+1	DESKTOP-6CB4LM6$	C:\Windows\System32\tquery.dll	8900	2021- 9- 8 16:16:25
+1	DESKTOP-6CB4LM6$	C:\Windows\System32\kernel32.dll	3084	2021- 9- 8 16:16:25
+1	DESKTOP-6CB4LM6$	C:\Windows\System32\cryptdll.dll	8900	2021- 9- 8 16:16:25
+1	DESKTOP-6CB4LM6$	C:\Windows\System32\ntdll.dll	3084	2021- 9- 8 16:16:25
+1	DESKTOP-6CB4LM6$	C:\Windows\System32\KernelBase.dll	3084	2021- 9- 8 16:16:25
+1	DESKTOP-6CB4LM6$	C:\Windows\System32\combase.dll	3084	2021- 9- 8 16:16:25
+1	DESKTOP-6CB4LM6$	C:\Windows\System32\KernelBase.dll	3084	2021- 9- 8 16:16:25
+1	DESKTOP-6CB4LM6$	C:\Windows\System32\ole32.dll	8900	2021- 9- 8 16:16:25
+1	DESKTOP-6CB4LM6$	C:\Windows\System32\ucrtbase.dll	3084	2021- 9- 8 16:16:25
+1	DESKTOP-6CB4LM6$	C:\Windows\System32\combase.dll	3084	2021- 9- 8 16:16:25
+1	DESKTOP-6CB4LM6$	C:\Windows\System32\oleaut32.dll	3084	2021- 9- 8 16:16:25
+1	DESKTOP-6CB4LM6$	C:\Windows\System32\rpcss.dll	8900	2021- 9- 8 16:16:25
+1	DESKTOP-6CB4LM6$	C:\Windows\System32\ucrtbase.dll	3084	2021- 9- 8 16:16:25
+1	DESKTOP-6CB4LM6$	C:\Windows\System32\rpcrt4.dll	3084	2021- 9- 8 16:16:25
+1	DESKTOP-6CB4LM6$	C:\Windows\System32\msfte.dll	8900	2021- 9- 8 16:16:25
+1	DESKTOP-6CB4LM6$	C:\Windows\System32\windows.storage.dll	3084	2021- 9- 8 16:16:25
+1	DESKTOP-6CB4LM6$	C:\Windows\System32\msvcp_win.dll	3084	2021- 9- 8 16:16:25
+1	DESKTOP-6CB4LM6$	C:\Windows\System32\msTracer.dll	8900	2021- 9- 8 16:16:25
+1	DESKTOP-6CB4LM6$	C:\Windows\System32\msidle.dll	8900	2021- 9- 8 16:16:25
+1	DESKTOP-6CB4LM6$	C:\Windows\System32\advapi32.dll	3084	2021- 9- 8 16:16:25
+1	DESKTOP-6CB4LM6$	C:\Windows\System32\sechost.dll	3084	2021- 9- 8 16:16:25
+1	DESKTOP-6CB4LM6$	C:\Windows\System32\bcryptprimitives.dll	3084	2021- 9- 8 16:16:25
+1	DESKTOP-6CB4LM6$	C:\Windows\Registration\R000000000006.clb	8900	2021- 9- 8 16:16:25
+1	DESKTOP-6CB4LM6$	C:\Windows\System32\bcryptprimitives.dll	3084	2021- 9- 8 16:16:25
+1	DESKTOP-6CB4LM6$	C:\Windows\System32\powrprof.dll	3084	2021- 9- 8 16:16:25
+1	DESKTOP-6CB4LM6$	C:\Windows\System32\shlwapi.dll	3084	2021- 9- 8 16:16:25
+1	DESKTOP-6CB4LM6$	C:\Windows\System32\rpcss.dll	8900	2021- 9- 8 16:16:25
+1	DESKTOP-6CB4LM6$	C:\Windows\System32\SHCore.dll	3084	2021- 9- 8 16:16:25
+1	DESKTOP-6CB4LM6$	C:\Windows\System32\profapi.dll	3084	2021- 9- 8 16:16:25
+1	DESKTOP-6CB4LM6$	C:\Windows\System32\win32u.dll	3084	2021- 9- 8 16:16:25
+1	DESKTOP-6CB4LM6$	C:\Windows\System32\mssprxy.dll	8900	2021- 9- 8 16:16:25
+1	DESKTOP-6CB4LM6$	C:\Windows\System32\SHCore.dll	3084	2021- 9- 8 16:16:25
+1	DESKTOP-6CB4LM6$	C:\Windows\System32\gdi32full.dll	3084	2021- 9- 8 16:16:25
+1	DESKTOP-6CB4LM6$	C:\Windows\System32\user32.dll	3084	2021- 9- 8 16:16:25
+1	DESKTOP-6CB4LM6$	C:\Windows\Globalization\Sorting\SortDefault.nls	8900	2021- 9- 8 16:16:25
+1	DESKTOP-6CB4LM6$	C:\Windows\System32\gdi32.dll	3084	2021- 9- 8 16:16:25
+1	DESKTOP-6CB4LM6$	C:\Windows\System32\gdi32full.dll	3084	2021- 9- 8 16:16:25
+1	DESKTOP-6CB4LM6$	C:\Windows\System32\tquery.dll	3084	2021- 9- 8 16:16:25
+1	DESKTOP-6CB4LM6$	C:\Windows\System32\cryptdll.dll	3084	2021- 9- 8 16:16:25
+1	DESKTOP-6CB4LM6$	C:\Windows\System32\mssph.dll	8900	2021- 9- 8 16:16:25
+1	DESKTOP-6CB4LM6$	C:\Windows\System32\kernel.appcore.dll	3084	2021- 9- 8 16:16:25
+1	DESKTOP-6CB4LM6$	C:\Windows\System32\msidle.dll	3084	2021- 9- 8 16:16:25
+1	DESKTOP-6CB4LM6$	C:\Windows\System32\cryptdll.dll	3084	2021- 9- 8 16:16:25
+1	DESKTOP-6CB4LM6$	C:\Windows\System32\clbcatq.dll	3084	2021- 9- 8 16:16:25
+1	DESKTOP-6CB4LM6$	C:\Windows\System32\msTracer.dll	8900	2021- 9- 8 16:16:25
+1	DESKTOP-6CB4LM6$	C:\Windows\System32\imm32.dll	3084	2021- 9- 8 16:16:25
+1	DESKTOP-6CB4LM6$	C:\Windows\System32\mssprxy.dll	3084	2021- 9- 8 16:16:25
+1	DESKTOP-6CB4LM6$	C:\Windows\System32\clbcatq.dll	3084	2021- 9- 8 16:16:25
+1	DESKTOP-6CB4LM6$	C:\Windows\System32\mssph.dll	3084	2021- 9- 8 16:16:25
+1	DESKTOP-6CB4LM6$	C:\Windows\System32\authz.dll	8900	2021- 9- 8 16:16:25
+1	DESKTOP-6CB4LM6$	C:\Windows\System32\authz.dll	3084	2021- 9- 8 16:16:25
+1	DESKTOP-6CB4LM6$	C:\Windows\System32\mssprxy.dll	3084	2021- 9- 8 16:16:25
+1	DESKTOP-6CB4LM6$	C:\Users\ÍõË¶\Desktop\Release\rule\rule.txt	8900	2021- 9- 8 16:16:25
+1	DESKTOP-6CB4LM6$	C:\Windows\System32\mssph.dll	3084	2021- 9- 8 16:16:25
+1	DESKTOP-6CB4LM6$	C:\Windows\System32\authz.dll	3084	2021- 9- 8 16:16:25
+1	DESKTOP-6CB4LM6$	C:\Windows\System32\ntmarta.dll	8900	2021- 9- 8 16:16:25
+1	DESKTOP-6CB4LM6$	C:\Windows\System32\ntmarta.dll	8900	2021- 9- 8 16:16:25
+1	DESKTOP-6CB4LM6$	C:\Windows\System32\ntmarta.dll	3084	2021- 9- 8 16:16:25
+1	ÍõË¶	C:\ProgramData\VMware\VMware Tools\tools.conf	7228	2021- 9- 8 16:16:25
+1	DESKTOP-6CB4LM6$	C:\Users\ÍõË¶\Desktop\Release\rule\rule.txt	8900	2021- 9- 8 16:16:25
+1	DESKTOP-6CB4LM6$	C:\Windows\System32\propsys.dll	8900	2021- 9- 8 16:16:25
+1	DESKTOP-6CB4LM6$	C:\Windows\System32\propsys.dll	3084	2021- 9- 8 16:16:25
+1	DESKTOP-6CB4LM6$	C:\Windows\System32\propsys.dll	3084	2021- 9- 8 16:16:25
+1	DESKTOP-6CB4LM6$	C:\Windows\System32\config\systemprofile\AppData\Local\Microsoft\Windows\Caches	8900	2021- 9- 8 16:16:25
+1	DESKTOP-6CB4LM6$	C:\Windows\System32\config\systemprofile\AppData\Local\Microsoft\Windows\Caches	8900	2021- 9- 8 16:16:25
+1	DESKTOP-6CB4LM6$	C:\Windows\System32\config\systemprofile\AppData\Local\Microsoft\Windows\Caches	8900	2021- 9- 8 16:16:25
+1	DESKTOP-6CB4LM6$	C:\Windows\System32\config\systemprofile\AppData\Local\Microsoft\Windows\Caches\cversions.1.db	8900	2021- 9- 8 16:16:25
+1	DESKTOP-6CB4LM6$	C:\Windows\System32\config\systemprofile\AppData\Local\Microsoft\Windows\Caches	8900	2021- 9- 8 16:16:25
+1	DESKTOP-6CB4LM6$	C:\Windows\System32\config\systemprofile\AppData\Local\Microsoft\Windows\Caches	8900	2021- 9- 8 16:16:25
+1	DESKTOP-6CB4LM6$	C:\Windows\System32\config\systemprofile\AppData\Local\Microsoft\Windows\Caches\cversions.1.db	8900	2021- 9- 8 16:16:25
+1	DESKTOP-6CB4LM6$	C:\Windows\System32\config\systemprofile\AppData\Local\Microsoft\Windows\Caches\{AFBF9F1A-8EE8-4C77-AF34-C647E37CA0D9}.1.ver0x0000000000000000.db	8900	2021- 9- 8 16:16:25
+1	DESKTOP-6CB4LM6$	C:\Users\desktop.ini	8900	2021- 9- 8 16:16:25
+1	DESKTOP-6CB4LM6$	C:\Users\ÍõË¶\desktop.ini	8900	2021- 9- 8 16:16:25
+1	DESKTOP-6CB4LM6$	C:\Users\ÍõË¶\Desktop\desktop.ini	8900	2021- 9- 8 16:16:25
+1	DESKTOP-6CB4LM6$	C:\Users\ÍõË¶\Desktop\Release\rule\desktop.ini	8900	2021- 9- 8 16:16:25
+1	DESKTOP-6CB4LM6$	C:\Windows\System32\Windows.StateRepositoryPS.dll	8900	2021- 9- 8 16:16:25
+1	DESKTOP-6CB4LM6$	C:\Windows\System32\Windows.StateRepositoryPS.dll	8900	2021- 9- 8 16:16:25
+1	DESKTOP-6CB4LM6$	C:\Windows\System32\Windows.StateRepositoryPS.dll	3084	2021- 9- 8 16:16:25
+1	DESKTOP-6CB4LM6$	C:\Windows\System32\shell32.dll	3084	2021- 9- 8 16:16:25
+1	DESKTOP-6CB4LM6$	C:\Windows\System32\cryptsp.dll	3084	2021- 9- 8 16:16:25
+1	DESKTOP-6CB4LM6$	C:\Windows\System32\shell32.dll	3084	2021- 9- 8 16:16:25
+1	DESKTOP-6CB4LM6$	C:\Users\ÍõË¶\Desktop\Release\rule	8900	2021- 9- 8 16:16:25
+1	DESKTOP-6CB4LM6$	C:\Windows\System32\cfgmgr32.dll	3084	2021- 9- 8 16:16:25
+1	DESKTOP-6CB4LM6$	C:\Users\ÍõË¶\Desktop\Release\rule	8900	2021- 9- 8 16:16:25
+1	DESKTOP-6CB4LM6$	C:\Windows\System32\cryptsp.dll	3084	2021- 9- 8 16:16:25
+1	DESKTOP-6CB4LM6$	C:\Users\ÍõË¶\Desktop\Release\rule	8900	2021- 9- 8 16:16:25
+1	DESKTOP-6CB4LM6$	C:\Users\ÍõË¶\Desktop\Release	8900	2021- 9- 8 16:16:25
+1	DESKTOP-6CB4LM6$	C:\Users\ÍõË¶\Desktop\Release	8900	2021- 9- 8 16:16:25
+1	DESKTOP-6CB4LM6$	C:\Users\ÍõË¶\Desktop\Release	8900	2021- 9- 8 16:16:25
+1	DESKTOP-6CB4LM6$	C:\Users\ÍõË¶\Desktop\Release	8900	2021- 9- 8 16:16:25
+1	DESKTOP-6CB4LM6$	C:\Users\ÍõË¶\Desktop	8900	2021- 9- 8 16:16:25
+1	DESKTOP-6CB4LM6$	C:\Users\ÍõË¶\Desktop	8900	2021- 9- 8 16:16:25
+1	DESKTOP-6CB4LM6$	C:\Users\ÍõË¶\Desktop	8900	2021- 9- 8 16:16:25
+1	DESKTOP-6CB4LM6$	C:\Users\ÍõË¶\Desktop	8900	2021- 9- 8 16:16:25
+1	DESKTOP-6CB4LM6$	C:\Users\ÍõË¶\Desktop	8900	2021- 9- 8 16:16:25
+1	DESKTOP-6CB4LM6$	C:\Users\ÍõË¶	8900	2021- 9- 8 16:16:25
+1	DESKTOP-6CB4LM6$	C:\Users\ÍõË¶	8900	2021- 9- 8 16:16:25
+1	DESKTOP-6CB4LM6$	C:\Users\ÍõË¶	8900	2021- 9- 8 16:16:25
+1	DESKTOP-6CB4LM6$	C:\Users\ÍõË¶	8900	2021- 9- 8 16:16:25
+1	DESKTOP-6CB4LM6$	C:\Users	8900	2021- 9- 8 16:16:25
+1	DESKTOP-6CB4LM6$	C:\Users	8900	2021- 9- 8 16:16:25
+1	DESKTOP-6CB4LM6$	C:\Users	8900	2021- 9- 8 16:16:25
+1	DESKTOP-6CB4LM6$	C:\Users	8900	2021- 9- 8 16:16:25
+1	DESKTOP-6CB4LM6$	C:\	8900	2021- 9- 8 16:16:25
+1	DESKTOP-6CB4LM6$	C:\Windows\SysWOW64\propsys.dll	8900	2021- 9- 8 16:16:25
+1	DESKTOP-6CB4LM6$	C:\Windows\SysWOW64\propsys.dll	8900	2021- 9- 8 16:16:25
+1	DESKTOP-6CB4LM6$	C:\Windows\SysWOW64\propsys.dll	8900	2021- 9- 8 16:16:25
+1	DESKTOP-6CB4LM6$	C:\Windows\SysWOW64\propsys.dll	8900	2021- 9- 8 16:16:25
+1	DESKTOP-6CB4LM6$	C:\Windows\System32\propsys.dll	8900	2021- 9- 8 16:16:25
+1	DESKTOP-6CB4LM6$	C:\Program Files\WindowsApps\Microsoft.LanguageExperiencePackzh-CN_17763.25.81.0_neutral__8wekyb3d8bbwe\Windows\System32\zh-CN\propsys.dll.mui	8900	2021- 9- 8 16:16:25
+1	DESKTOP-6CB4LM6$	C:\Users\ÍõË¶\Desktop\Release\rule\rule.txt	8900	2021- 9- 8 16:16:25
+1	DESKTOP-6CB4LM6$	C:\Program Files\WindowsApps\Microsoft.LanguageExperiencePackzh-CN_17763.25.81.0_neutral__8wekyb3d8bbwe\Windows\System32\zh-CN\shell32.dll.mui	8900	2021- 9- 8 16:16:25
+1	DESKTOP-6CB4LM6$	C:\Users\ÍõË¶\Desktop\Release\rule	8900	2021- 9- 8 16:16:25
+1	DESKTOP-6CB4LM6$	C:\Users\ÍõË¶\Desktop\Release\rule	8900	2021- 9- 8 16:16:25
+1	DESKTOP-6CB4LM6$	C:\Users\ÍõË¶\Desktop\Release\rule	8900	2021- 9- 8 16:16:25
+1	DESKTOP-6CB4LM6$	C:\Users\ÍõË¶\Desktop\Release\rule	8900	2021- 9- 8 16:16:25
+1	DESKTOP-6CB4LM6$	C:\Users\ÍõË¶\Desktop\Release\rule	8900	2021- 9- 8 16:16:25
+1	DESKTOP-6CB4LM6$	C:\Users\ÍõË¶\Desktop\Release	8900	2021- 9- 8 16:16:25
+1	DESKTOP-6CB4LM6$	C:\Users\ÍõË¶\Desktop\Release	8900	2021- 9- 8 16:16:25
+1	DESKTOP-6CB4LM6$	C:\Users\ÍõË¶\Desktop\Release	8900	2021- 9- 8 16:16:25
+1	DESKTOP-6CB4LM6$	C:\Users\ÍõË¶\Desktop\Release	8900	2021- 9- 8 16:16:25
+1	DESKTOP-6CB4LM6$	C:\Users\ÍõË¶\Desktop	8900	2021- 9- 8 16:16:25
+1	DESKTOP-6CB4LM6$	C:\Users\ÍõË¶\Desktop	8900	2021- 9- 8 16:16:25
+1	DESKTOP-6CB4LM6$	C:\Users\ÍõË¶\Desktop	8900	2021- 9- 8 16:16:25
+1	DESKTOP-6CB4LM6$	C:\Users\ÍõË¶\Desktop	8900	2021- 9- 8 16:16:25
+1	DESKTOP-6CB4LM6$	C:\Users\ÍõË¶	8900	2021- 9- 8 16:16:25
+1	DESKTOP-6CB4LM6$	C:\Users\ÍõË¶	8900	2021- 9- 8 16:16:25
+1	DESKTOP-6CB4LM6$	C:\Users\ÍõË¶	8900	2021- 9- 8 16:16:25
+1	DESKTOP-6CB4LM6$	C:\Users\ÍõË¶	8900	2021- 9- 8 16:16:25
+1	DESKTOP-6CB4LM6$	C:\Users	8900	2021- 9- 8 16:16:25
+1	DESKTOP-6CB4LM6$	C:\Users	8900	2021- 9- 8 16:16:25
+1	DESKTOP-6CB4LM6$	C:\Users	8900	2021- 9- 8 16:16:25
+1	DESKTOP-6CB4LM6$	C:\Users	8900	2021- 9- 8 16:16:25
+1	DESKTOP-6CB4LM6$	C:\Users\ÍõË¶\Desktop\Release\rule	8900	2021- 9- 8 16:16:25
+1	DESKTOP-6CB4LM6$	C:\Users\ÍõË¶\Desktop\Release\rule	8900	2021- 9- 8 16:16:25
+1	DESKTOP-6CB4LM6$	C:\Users\ÍõË¶\Desktop\Release\rule	8900	2021- 9- 8 16:16:25
+1	DESKTOP-6CB4LM6$	C:\Users\ÍõË¶\Desktop\Release\rule	8900	2021- 9- 8 16:16:25
+1	DESKTOP-6CB4LM6$	C:\Users\ÍõË¶\Desktop\Release	8900	2021- 9- 8 16:16:25
+1	DESKTOP-6CB4LM6$	C:\Users\ÍõË¶\Desktop\Release	8900	2021- 9- 8 16:16:25
+1	DESKTOP-6CB4LM6$	C:\Users\ÍõË¶\Desktop\Release	8900	2021- 9- 8 16:16:25
+1	DESKTOP-6CB4LM6$	C:\Users\ÍõË¶\Desktop\Release	8900	2021- 9- 8 16:16:26
+1	DESKTOP-6CB4LM6$	C:\Users\ÍõË¶\Desktop	8900	2021- 9- 8 16:16:26
+1	DESKTOP-6CB4LM6$	C:\Users\ÍõË¶\Desktop	8900	2021- 9- 8 16:16:26
+1	DESKTOP-6CB4LM6$	C:\Users\ÍõË¶\Desktop	8900	2021- 9- 8 16:16:26
+1	ÍõË¶	C:\	4980	2021- 9- 8 16:16:26
+1	DESKTOP-6CB4LM6$	C:\Users\ÍõË¶	8900	2021- 9- 8 16:16:26
+1	ÍõË¶	C:\Users\ÍõË¶\Desktop	4980	2021- 9- 8 16:16:26
+1	DESKTOP-6CB4LM6$	C:\Users\ÍõË¶	8900	2021- 9- 8 16:16:26
+1	DESKTOP-6CB4LM6$	C:\Users\ÍõË¶	8900	2021- 9- 8 16:16:26
+1	ÍõË¶	C:\Users\ÍõË¶\Desktop	4980	2021- 9- 8 16:16:26
+1	DESKTOP-6CB4LM6$	C:\Users\ÍõË¶	8900	2021- 9- 8 16:16:26
+1	DESKTOP-6CB4LM6$	C:\Users	8900	2021- 9- 8 16:16:26
+1	DESKTOP-6CB4LM6$	C:\Users	8900	2021- 9- 8 16:16:26
+1	DESKTOP-6CB4LM6$	C:\Users	8900	2021- 9- 8 16:16:26
+1	DESKTOP-6CB4LM6$	C:\Users	8900	2021- 9- 8 16:16:26
+1	DESKTOP-6CB4LM6$	C:\Windows\System32\edputil.dll	8900	2021- 9- 8 16:16:26
+1	DESKTOP-6CB4LM6$	C:\Windows\System32\edputil.dll	3084	2021- 9- 8 16:16:26
+1	DESKTOP-6CB4LM6$	C:\Users\ÍõË¶\Desktop\Release\rule	8900	2021- 9- 8 16:16:26
+1	DESKTOP-6CB4LM6$	C:\Windows\System32\edputil.dll	3084	2021- 9- 8 16:16:26
+1	DESKTOP-6CB4LM6$	C:\Windows\System32\cldapi.dll	8900	2021- 9- 8 16:16:26
+2	DESKTOP-6CB4LM6$		4	2021- 9- 8 16:16:26
+1	DESKTOP-6CB4LM6$	C:\Windows\System32\cldapi.dll	3084	2021- 9- 8 16:16:26
+1	ÍõË¶	C:\Users\ÍõË¶\Desktop\Release\rule\desktop.ini	4980	2021- 9- 8 16:16:26
+1	ÍõË¶	C:\Users\ÍõË¶\Desktop\Release\rule	4980	2021- 9- 8 16:16:26
+1	DESKTOP-6CB4LM6$	C:\Windows\System32\bcrypt.dll	3084	2021- 9- 8 16:16:26
+1	ÍõË¶	C:\Users\ÍõË¶\Desktop\Release\rule	4980	2021- 9- 8 16:16:26
+1	ÍõË¶	C:\Users\ÍõË¶\Desktop\Release\rule	4980	2021- 9- 8 16:16:26
+1	ÍõË¶	C:\	4980	2021- 9- 8 16:16:26
+1	DESKTOP-6CB4LM6$	C:\Windows\System32\fltLib.dll	3084	2021- 9- 8 16:16:26
+1	ÍõË¶	C:\Users\ÍõË¶\Desktop\Release\rule	4980	2021- 9- 8 16:16:26
+1	DESKTOP-6CB4LM6$	C:\Windows\System32\fltLib.dll	3084	2021- 9- 8 16:16:26
+1	ÍõË¶	C:\Users\ÍõË¶\Desktop\Release	4980	2021- 9- 8 16:16:26
+1	ÍõË¶	C:\Users\ÍõË¶\Desktop\Release	4980	2021- 9- 8 16:16:26
+1	ÍõË¶	C:\Users\ÍõË¶\Desktop\Release	4980	2021- 9- 8 16:16:26
+1	ÍõË¶	C:\Users\ÍõË¶\Desktop\Release	4980	2021- 9- 8 16:16:26
+1	ÍõË¶	C:\Users\ÍõË¶\Desktop\Release	4980	2021- 9- 8 16:16:26
+1	ÍõË¶	C:\Users\ÍõË¶\Desktop	4980	2021- 9- 8 16:16:26
+1	ÍõË¶	C:\Users\ÍõË¶\Desktop	4980	2021- 9- 8 16:16:26
+1	ÍõË¶	C:\Users\ÍõË¶\Desktop	4980	2021- 9- 8 16:16:26
+1	ÍõË¶	C:\Users\ÍõË¶\Desktop	4980	2021- 9- 8 16:16:26
+1	ÍõË¶	C:\Users\ÍõË¶	4980	2021- 9- 8 16:16:26
+1	ÍõË¶	C:\Users\ÍõË¶	4980	2021- 9- 8 16:16:26
+1	ÍõË¶	C:\Users\ÍõË¶	4980	2021- 9- 8 16:16:26
+1	ÍõË¶	C:\Users\ÍõË¶\Desktop\Release\FilesystemMonitorClient.exe	4980	2021- 9- 8 16:16:26
+1	ÍõË¶	C:\Windows\InputMethod\CHS\ChsPinyinFamilyName.lex	4560	2021- 9- 8 16:16:26
+1	ÍõË¶	C:\Users\ÍõË¶	4560	2021- 9- 8 16:16:26
+1	ÍõË¶	C:\Users	4980	2021- 9- 8 16:16:26
+1	ÍõË¶	C:\Windows\InputMethod\CHS	4560	2021- 9- 8 16:16:26
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming	4560	2021- 9- 8 16:16:26
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming	4560	2021- 9- 8 16:16:26
+1	ÍõË¶	C:\Users	4980	2021- 9- 8 16:16:26
+1	ÍõË¶	C:\Users\ÍõË¶	5072	2021- 9- 8 16:16:26
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\InputMethod\Chs\ChsPinyinUDL_Setting_Beta.dat	4560	2021- 9- 8 16:16:26
+1	ÍõË¶	C:\Users\ÍõË¶	4560	2021- 9- 8 16:16:26
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming	5072	2021- 9- 8 16:16:26
+1	ÍõË¶	C:\Users	4980	2021- 9- 8 16:16:26
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming	4560	2021- 9- 8 16:16:26
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\InputMethod\Chs	5072	2021- 9- 8 16:16:26
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming	4560	2021- 9- 8 16:16:26
+1	ÍõË¶	C:\Users	4980	2021- 9- 8 16:16:26
+1	ÍõË¶	C:\Users\ÍõË¶	4560	2021- 9- 8 16:16:26
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\InputMethod\Chs\ChsPinyinUDL.dat	5072	2021- 9- 8 16:16:26
+1	ÍõË¶	C:\Users\ÍõË¶	4560	2021- 9- 8 16:16:26
+1	ÍõË¶	C:\Users\ÍõË¶\Desktop\Release	4980	2021- 9- 8 16:16:26
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming	4560	2021- 9- 8 16:16:26
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\InputMethod\Chs\ChsPinyinPinnedCands.dat	5072	2021- 9- 8 16:16:26
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\InputMethod\Chs	4560	2021- 9- 8 16:16:26
+1	ÍõË¶	C:\Users\ÍõË¶\Desktop	4980	2021- 9- 8 16:16:26
+1	ÍõË¶	C:\Users\ÍõË¶	4560	2021- 9- 8 16:16:26
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\InputMethod\Chs\ChsPinyinHap_s.lex	5072	2021- 9- 8 16:16:26
+1	ÍõË¶	C:\Users\ÍõË¶	4980	2021- 9- 8 16:16:26
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming	4560	2021- 9- 8 16:16:26
+1	ÍõË¶	C:\Users	4980	2021- 9- 8 16:16:26
+1	ÍõË¶	C:\Users\ÍõË¶	5072	2021- 9- 8 16:16:26
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\InputMethod\Chs	4560	2021- 9- 8 16:16:26
+1	ÍõË¶	C:\	4980	2021- 9- 8 16:16:26
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming	5072	2021- 9- 8 16:16:26
+1	ÍõË¶	C:\Users\ÍõË¶	4560	2021- 9- 8 16:16:26
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming	4560	2021- 9- 8 16:16:26
+1	ÍõË¶	C:\Users\ÍõË¶\Desktop\Release\rule\rule.txt	4980	2021- 9- 8 16:16:26
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\InputMethod\Chs\ChsPinyinUDL_Setting.dat	5072	2021- 9- 8 16:16:26
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\InputMethod\Chs	4560	2021- 9- 8 16:16:26
+1	ÍõË¶	C:\Users\ÍõË¶	5072	2021- 9- 8 16:16:26
+1	ÍõË¶	C:\$Recycle.Bin\S-1-5-21-3089630636-684074559-2192975366-1001	4980	2021- 9- 8 16:16:26
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\InputMethod\Chs\ChsPinyinIH_Beta.dat	4560	2021- 9- 8 16:16:26
+1	ÍõË¶	C:\Users\ÍõË¶	4560	2021- 9- 8 16:16:26
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming	5072	2021- 9- 8 16:16:26
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming	4560	2021- 9- 8 16:16:26
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming	5072	2021- 9- 8 16:16:26
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\InputMethod\Chs	4560	2021- 9- 8 16:16:26
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\InputMethod\Chs\ChsPinyinUDL_Setting.dat	5072	2021- 9- 8 16:16:26
+1	ÍõË¶	C:\Users\ÍõË¶	4560	2021- 9- 8 16:16:26
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming	4560	2021- 9- 8 16:16:26
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming	4560	2021- 9- 8 16:16:26
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\InputMethod\Chs\ChsPinyinIH.dat	5072	2021- 9- 8 16:16:26
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\InputMethod\Chs	4560	2021- 9- 8 16:16:26
+1	ÍõË¶	C:\Users\ÍõË¶	4560	2021- 9- 8 16:16:26
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\InputMethod\Chs\ChsPinyinDeletedCands.dat	5072	2021- 9- 8 16:16:26
+1	ÍõË¶	C:\Users\ÍõË¶	4560	2021- 9- 8 16:16:26
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\InputMethod\Chs\ChsPinyinHap_s.lex	5072	2021- 9- 8 16:16:26
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming	4560	2021- 9- 8 16:16:26
+1	ÍõË¶	C:\Users\ÍõË¶	5072	2021- 9- 8 16:16:26
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\InputMethod\Chs	4560	2021- 9- 8 16:16:26
+1	ÍõË¶	C:\Users\ÍõË¶	4560	2021- 9- 8 16:16:26
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming	4560	2021- 9- 8 16:16:26
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming	5072	2021- 9- 8 16:16:26
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming	4560	2021- 9- 8 16:16:26
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\InputMethod\Chs\ChsPinyinDeletedCands_Beta.dat	4560	2021- 9- 8 16:16:26
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\InputMethod\Chs\ChsPinyinUDL_Setting.dat	5072	2021- 9- 8 16:16:26
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\InputMethod\Chs\ChsPinyinUDL_Beta.dat	4560	2021- 9- 8 16:16:26
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\InputMethod\Chs\ChsPinyinIH_Beta.dat	4560	2021- 9- 8 16:16:26
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\InputMethod\Chs\ChsPinyinDeletedCands_Beta.dat	4560	2021- 9- 8 16:16:26
+1	ÍõË¶	C:\Users\ÍõË¶	4560	2021- 9- 8 16:16:26
+1	ÍõË¶	C:\Users\ÍõË¶	4560	2021- 9- 8 16:16:26
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming	4560	2021- 9- 8 16:16:26
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\InputMethod\Chs	4560	2021- 9- 8 16:16:26
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\InputMethod\Chs\ChsPinyinUDL_Setting_Beta.dat	4560	2021- 9- 8 16:16:26
+1	ÍõË¶	C:\Users\ÍõË¶	4560	2021- 9- 8 16:16:26
+1	ÍõË¶	C:\Users\ÍõË¶	4560	2021- 9- 8 16:16:26
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming	4560	2021- 9- 8 16:16:26
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\InputMethod\Chs	4560	2021- 9- 8 16:16:26
+1	ÍõË¶	C:\Users\ÍõË¶	4560	2021- 9- 8 16:16:26
+1	ÍõË¶	C:\Users\ÍõË¶	4560	2021- 9- 8 16:16:26
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming	4560	2021- 9- 8 16:16:26
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\InputMethod\Chs	4560	2021- 9- 8 16:16:26
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\InputMethod\Chs\ChsPinyinUDL_Beta.dat	4560	2021- 9- 8 16:16:26
+1	ÍõË¶	C:\Users\ÍõË¶	4560	2021- 9- 8 16:16:26
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming	4560	2021- 9- 8 16:16:26
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming	4560	2021- 9- 8 16:16:26
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\InputMethod\Chs	4560	2021- 9- 8 16:16:26
+1	ÍõË¶	C:\Users\ÍõË¶	4560	2021- 9- 8 16:16:26
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming	4560	2021- 9- 8 16:16:26
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming	4560	2021- 9- 8 16:16:26
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\InputMethod\Chs	4560	2021- 9- 8 16:16:26
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\InputMethod\Chs\ChsPinyinIH_Beta.dat	4560	2021- 9- 8 16:16:26
+1	ÍõË¶	C:\Users\ÍõË¶	4560	2021- 9- 8 16:16:26
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming	4560	2021- 9- 8 16:16:26
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming	4560	2021- 9- 8 16:16:26
+1	ÍõË¶	C:\Users\ÍõË¶	4560	2021- 9- 8 16:16:26
+1	ÍõË¶	C:\Users\ÍõË¶	4560	2021- 9- 8 16:16:26
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming	4560	2021- 9- 8 16:16:26
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming	4560	2021- 9- 8 16:16:26
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\InputMethod\Chs\ChsPinyinPinnedCands_Beta.dat	4560	2021- 9- 8 16:16:26
+1	ÍõË¶	C:\Users\ÍõË¶	4560	2021- 9- 8 16:16:26
+1	ÍõË¶	C:\Users\ÍõË¶	4560	2021- 9- 8 16:16:26
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming	4560	2021- 9- 8 16:16:26
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\InputMethod\Chs	4560	2021- 9- 8 16:16:26
+1	ÍõË¶	C:\Users\ÍõË¶	4560	2021- 9- 8 16:16:26
+1	ÍõË¶	C:\Users\ÍõË¶	4560	2021- 9- 8 16:16:26
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming	4560	2021- 9- 8 16:16:26
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\InputMethod\Chs	4560	2021- 9- 8 16:16:26
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\InputMethod\Chs\ChsPinyinDeletedCands_Beta.dat	4560	2021- 9- 8 16:16:26
+1	ÍõË¶	C:\Users\ÍõË¶	4560	2021- 9- 8 16:16:26
+1	ÍõË¶	C:\Users\ÍõË¶	4560	2021- 9- 8 16:16:26
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming	4560	2021- 9- 8 16:16:26
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\InputMethod\Chs	4560	2021- 9- 8 16:16:26
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\InputMethod\Chs\ChsPinyinUDL_Setting_Beta.dat	4560	2021- 9- 8 16:16:26
+1	ÍõË¶	C:\Users\ÍõË¶	4560	2021- 9- 8 16:16:26
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming	4560	2021- 9- 8 16:16:26
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming	4560	2021- 9- 8 16:16:26
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\InputMethod\Chs	4560	2021- 9- 8 16:16:26
+1	ÍõË¶	C:\Users\ÍõË¶	4560	2021- 9- 8 16:16:26
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming	4560	2021- 9- 8 16:16:26
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming	4560	2021- 9- 8 16:16:26
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\InputMethod\Chs\ChsPinyinUDL_Beta.dat	4560	2021- 9- 8 16:16:26
+1	ÍõË¶	C:\Users\ÍõË¶	4560	2021- 9- 8 16:16:26
+1	ÍõË¶	C:\Users\ÍõË¶	4560	2021- 9- 8 16:16:26
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming	4560	2021- 9- 8 16:16:26
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming\Microsoft\InputMethod\Chs	4560	2021- 9- 8 16:16:26
+1	ÍõË¶	C:\Users\ÍõË¶	4560	2021- 9- 8 16:16:26
+1	ÍõË¶	C:\Users\ÍõË¶	4560	2021- 9- 8 16:16:26
+1	ÍõË¶	C:\Users\ÍõË¶\AppData\Roaming	4560	2021- 9- 8 16:16:26

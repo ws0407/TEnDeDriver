@@ -1,0 +1,10 @@
+﻿  pch.cpp
+  dllmain.cpp
+  UserDll.cpp
+D:\Pengzy1008\Project\VisualStudioProject\File-System-Monitor\UserDll-1\UserDll.cpp(53,12): warning C4477: “printf”: 格式字符串“%ls”需要类型“wchar_t *”的参数，但可变参数 1 拥有了类型“char *”
+D:\Pengzy1008\Project\VisualStudioProject\File-System-Monitor\UserDll-1\UserDll.cpp(53,12): message : 请考虑在格式字符串中使用“%hs”
+D:\Pengzy1008\Project\VisualStudioProject\File-System-Monitor\UserDll-1\UserDll.cpp(53,12): message : 请考虑在格式字符串中使用“%s”
+D:\Pengzy1008\Project\VisualStudioProject\File-System-Monitor\UserDll-1\UserDll.cpp(53,12): message : 请考虑在格式字符串中使用“%Ts”
+  正在生成代码...
+    正在创建库 D:\Pengzy1008\Project\VisualStudioProject\File-System-Monitor\UserDll-1\x64\Debug\UserDll-1.lib 和对象 D:\Pengzy1008\Project\VisualStudioProject\File-System-Monitor\UserDll-1\x64\Debug\UserDll-1.exp
+  UserDll-1.vcxproj -> D:\Pengzy1008\Project\VisualStudioProject\File-System-Monitor\UserDll-1\x64\Debug\UserDll-1.dll
